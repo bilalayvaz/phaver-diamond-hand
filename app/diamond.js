@@ -1,4 +1,4 @@
- export const diamond =[
+  export const diamond =[
   {
     username: "joonatan",
     diamondOrPaper: "diamond hand"
@@ -1925,7 +1925,7 @@
   },
   {
     username: "oldcaptdesing",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "overflow",
@@ -2733,7 +2733,7 @@
   },
   {
     username: "Giray1",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "mariachimadness",
@@ -2937,7 +2937,7 @@
   },
   {
     username: "ratpick",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "endercubukcu",
@@ -4033,7 +4033,7 @@
   },
   {
     username: "San2",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "orogoldgallery",
@@ -4465,7 +4465,7 @@
   },
   {
     username: "melike34",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "CryptoRagnar",
@@ -5253,7 +5253,7 @@
   },
   {
     username: "afarrag",
-    diamondOrPaper: "paper hand"
+    diamondOrPaper: "diamond hand"
   },
   {
     username: "arpanberwal",
@@ -5437,7 +5437,7 @@
   },
   {
     username: "phaverj",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "catmeow",
@@ -8569,7 +8569,7 @@
   },
   {
     username: "rea007",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "sulthanrei",
@@ -9917,7 +9917,7 @@
   },
   {
     username: "Hamarat17",
-    diamondOrPaper: "paper hand"
+    diamondOrPaper: "diamond hand"
   },
   {
     username: "cryptosmarts",
@@ -12281,7 +12281,7 @@
   },
   {
     username: "packetcoin",
-    diamondOrPaper: "paper hand"
+    diamondOrPaper: "diamond hand"
   },
   {
     username: "Giselediscorde",
@@ -13449,7 +13449,7 @@
   },
   {
     username: "priyankasanju",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Sinanka",
@@ -14225,7 +14225,7 @@
   },
   {
     username: "ahmad222",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "debraj",
@@ -14753,7 +14753,7 @@
   },
   {
     username: "rgaes",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "paul1115",
@@ -15445,7 +15445,7 @@
   },
   {
     username: "nostoryboss",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Samoris",
@@ -16781,7 +16781,7 @@
   },
   {
     username: "SaurisiL",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "IMP0STER",
@@ -17049,7 +17049,7 @@
   },
   {
     username: "AirdropDgen",
-    diamondOrPaper: "paper hand"
+    diamondOrPaper: "diamond hand"
   },
   {
     username: "javalord1",
@@ -17693,7 +17693,7 @@
   },
   {
     username: "Mohd3774",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "DrBlackJack",
@@ -19369,7 +19369,7 @@
   },
   {
     username: "amitshah",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "CrazyDna",
@@ -19625,7 +19625,7 @@
   },
   {
     username: "chaurasia",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "omais592",
@@ -21369,7 +21369,7 @@
   },
   {
     username: "bakuekidao",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Rodenco",
@@ -22077,7 +22077,7 @@
   },
   {
     username: "Htethtetnaing",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "ltr980",
@@ -22165,7 +22165,7 @@
   },
   {
     username: "Benedict_14",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "sohan333",
@@ -23857,15 +23857,15 @@
   },
   {
     username: "umaykut",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "ayso",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "dedoman",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "korottaa",
@@ -23873,11 +23873,11 @@
   },
   {
     username: "erdemdundar",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Milacik",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "schranz",
@@ -25157,7 +25157,7 @@
   },
   {
     username: "GordrioN",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "nop99",
@@ -27301,7 +27301,7 @@
   },
   {
     username: "angeling",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Jaybliss",
@@ -29205,7 +29205,7 @@
   },
   {
     username: "Keung",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "HasLicht",
@@ -29941,7 +29941,7 @@
   },
   {
     username: "2rik",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "crypto_power",
@@ -30141,7 +30141,7 @@
   },
   {
     username: "Ahm.36",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "darkrabel",
@@ -30461,7 +30461,7 @@
   },
   {
     username: "ugur_190347",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "munna1613",
@@ -30477,11 +30477,11 @@
   },
   {
     username: "Deleted",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "sinerjique",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "azeemmalik",
@@ -30505,7 +30505,7 @@
   },
   {
     username: "Crypt0Diablo",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "chevolution",
@@ -30561,7 +30561,7 @@
   },
   {
     username: "cyberstaker",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "sofel",
@@ -31349,47 +31349,47 @@
   },
   {
     username: "sukrit1234",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "ponzibillionaire",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "kamgo",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "SmileV",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Amarachijoyce",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "nie",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "markbaga",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "yessirlarsen",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "fellerno",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "behnam.flh",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "offero",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Zhantai",
@@ -31401,7 +31401,7 @@
   },
   {
     username: "MagdalenaG",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "alaniabolore",
@@ -31413,7 +31413,7 @@
   },
   {
     username: "junaidihan",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Pudd",
@@ -31421,27 +31421,27 @@
   },
   {
     username: "osio",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "fbi97128",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Bekem2025S",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "ShuklaDivesh",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "meinecco",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "vip888",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "al92",
@@ -31457,11 +31457,11 @@
   },
   {
     username: "edfadome29",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "vijay007.",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "rahmanygy",
@@ -31473,15 +31473,15 @@
   },
   {
     username: "NHR",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "zohan1",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "qiang1698",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Babsman",
@@ -31497,11 +31497,11 @@
   },
   {
     username: "ghazaleshraghi",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Geezil",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "rien",
@@ -31513,43 +31513,43 @@
   },
   {
     username: "gind",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "user99",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "shuaibwasifkhan",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "imkingchron46",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "inimonzzz",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "airpo",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "belkiner",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "bazz",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "sanjeevcrypto",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "JobestSax",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "donstan",
@@ -31561,7 +31561,7 @@
   },
   {
     username: "Subrata123",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "RommeL",
@@ -31569,11 +31569,11 @@
   },
   {
     username: "jibn178",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "gojag",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "cryptowillrise",
@@ -31581,15 +31581,15 @@
   },
   {
     username: "neglove",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "bluesclues",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "kylewashburn",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "nurulbadriyah81",
@@ -31601,19 +31601,19 @@
   },
   {
     username: "Muthu4591",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "umaraftab028",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "nguyenthat91",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Alumiwa",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "divyam",
@@ -31621,7 +31621,7 @@
   },
   {
     username: "ljp12333333",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Anujraghuwanshi",
@@ -31629,7 +31629,7 @@
   },
   {
     username: "BNWXF",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "meena1802",
@@ -31637,15 +31637,15 @@
   },
   {
     username: "gonetflix",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "draeb",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "arslan144",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "agonybit",
@@ -31653,7 +31653,7 @@
   },
   {
     username: "harsh48540",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "playful",
@@ -31661,15 +31661,15 @@
   },
   {
     username: "talhaqkhan",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "sagarc2188",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Maria1991sh",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "PRINCEJALICE777",
@@ -31681,11 +31681,11 @@
   },
   {
     username: "rajesh43",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "usamamk",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Franko1",
@@ -31693,15 +31693,15 @@
   },
   {
     username: "ocn",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Sabbir8877",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "wancutri",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "navidbiz",
@@ -31713,11 +31713,11 @@
   },
   {
     username: "mick5788",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Cryptokaty",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "norisk86",
@@ -31733,7 +31733,7 @@
   },
   {
     username: "apocalypse60",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "jamex93",
@@ -31745,15 +31745,15 @@
   },
   {
     username: "aditya.jayarajan",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "afnanxyz",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "tamilavelieva",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "johngalt",
@@ -31761,15 +31761,15 @@
   },
   {
     username: "ravensk",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "muhtar",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "babyfuchia",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "leksidenation",
@@ -31777,31 +31777,31 @@
   },
   {
     username: "chemo",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "tommykw",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "waqasyousaf",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "jamalnggau",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "diahhandayanih",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "sobia381",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "N31Dilsh",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "turkete",
@@ -31821,11 +31821,11 @@
   },
   {
     username: "antobebin",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "YLN",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "deepak986786",
@@ -31833,11 +31833,11 @@
   },
   {
     username: "jayq",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "chowdary",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "ayusufdev",
@@ -31845,11 +31845,11 @@
   },
   {
     username: "ayi558",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "rabby605",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "lujy",
@@ -31861,15 +31861,15 @@
   },
   {
     username: "raakot",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "ccyyuu",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "paulnababan",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "bananaxbighead",
@@ -31877,23 +31877,23 @@
   },
   {
     username: "sameerizwan",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "dropszone",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "CryptoBlonde",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "damlancy",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "tataphaver",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "surya61953",
@@ -31913,51 +31913,51 @@
   },
   {
     username: "zhak007",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "tngm99",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "simba264",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Nifemijames",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Cryptosvin",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Xmpll.eth",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "bluecup",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "fawq",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "tokudax",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "gun",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "MarvelG27",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "randomrains",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Firoj0000",
@@ -31965,7 +31965,7 @@
   },
   {
     username: "ranvacin",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Shake_49",
@@ -31973,7 +31973,7 @@
   },
   {
     username: "Hoanglong",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "mehrshaad",
@@ -31993,7 +31993,7 @@
   },
   {
     username: "sansanf2",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "sonucrypto",
@@ -32001,19 +32001,19 @@
   },
   {
     username: "majoj",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Suheuddin",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "altari",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "gagansidhu2287",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Vietvtc4",
@@ -32025,19 +32025,19 @@
   },
   {
     username: "crypto369",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "abdul94",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "3lpatron",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "soofiyanaz143",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "samuelwhizzy",
@@ -32045,15 +32045,15 @@
   },
   {
     username: "yogiyendri",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Ansky",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "kflydemanto",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "yuan2024",
@@ -32065,7 +32065,7 @@
   },
   {
     username: "davidcool",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "dimmy",
@@ -32077,23 +32077,23 @@
   },
   {
     username: "mulababy",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "samwise978",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "stve",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "weirdprince950",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Niazi75",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Krismrdn",
@@ -32101,7 +32101,7 @@
   },
   {
     username: "muham",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Yours_Debbu",
@@ -32109,7 +32109,7 @@
   },
   {
     username: "eth_tomato",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "LyonSterling",
@@ -32117,11 +32117,11 @@
   },
   {
     username: "Hoainam1920",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "kontolterbang",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Simonpm",
@@ -32129,7 +32129,7 @@
   },
   {
     username: "Giancarlo1969",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "cuns",
@@ -32137,15 +32137,15 @@
   },
   {
     username: "Hasinamss",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "quds",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Ridoy1122",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "ahmadtrader",
@@ -32157,19 +32157,19 @@
   },
   {
     username: "Dhrupeshkumar",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "yaoou",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "khoikhoi83",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "syarifayib83",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Kamekame",
@@ -32177,7 +32177,7 @@
   },
   {
     username: "xenom",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "ch1msy7",
@@ -32185,19 +32185,19 @@
   },
   {
     username: "vidin",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "shihab0852",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "ajos",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "tkdaries",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Private004",
@@ -32213,19 +32213,19 @@
   },
   {
     username: "Viktoh65",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "akheel",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Musharaf381",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "zekstr",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "demolab",
@@ -32233,7 +32233,7 @@
   },
   {
     username: "sassypantsninja",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Cryptoselina",
@@ -32241,19 +32241,19 @@
   },
   {
     username: "Caotrus",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "wayne518",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Slothy",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "cryptosadex",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "samzy",
@@ -32261,15 +32261,15 @@
   },
   {
     username: "vccttr",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "hoaian779",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Imadclicks",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "anggeri24",
@@ -32277,11 +32277,11 @@
   },
   {
     username: "idreeskhanz107",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Devil6666",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "mossq",
@@ -32289,7 +32289,7 @@
   },
   {
     username: "Toplayer",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "nown",
@@ -32301,11 +32301,11 @@
   },
   {
     username: "biawaksdk",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Rishuji",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "ChiptheResearcher",
@@ -32317,19 +32317,19 @@
   },
   {
     username: "AmmarHussain89",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "comradeop",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "tread",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "dhruvdev",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "nemoo",
@@ -32345,55 +32345,55 @@
   },
   {
     username: "Farquest",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "pabloblaq5050",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "rizkmuhae",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "kubudak89",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "0xJoyz",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "longkui",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "abunawas",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Kachandz95",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "windrush",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "eksadew",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Barelia2108",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "silva",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "durveshpatel",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "anbien",
@@ -32401,7 +32401,7 @@
   },
   {
     username: "hoaihung",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "gekko",
@@ -32413,7 +32413,7 @@
   },
   {
     username: "ZandV",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Arcangello",
@@ -32421,7 +32421,7 @@
   },
   {
     username: "Intrepidus",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "ikmaniofficial",
@@ -32429,7 +32429,7 @@
   },
   {
     username: "juliansbee",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "fdrlra",
@@ -32441,11 +32441,11 @@
   },
   {
     username: "Onemanarmy0063",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "nhannguyenngt",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "webx0",
@@ -32453,7 +32453,7 @@
   },
   {
     username: "ayaanaishsan",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "hlyyl",
@@ -32461,15 +32461,15 @@
   },
   {
     username: "Kaa1166",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "zaheeraslam",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Cryptoworld23",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "ali785",
@@ -32477,7 +32477,7 @@
   },
   {
     username: "nando18",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Vickybless25",
@@ -32485,7 +32485,7 @@
   },
   {
     username: "Rtgdis",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "0xMaddix",
@@ -32493,7 +32493,7 @@
   },
   {
     username: "caglarrehber",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "KPUR",
@@ -32501,15 +32501,15 @@
   },
   {
     username: "rektzy",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Aurorramega",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "AirdropHIS",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Akbar01",
@@ -32517,11 +32517,11 @@
   },
   {
     username: "jorj",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "zgezero",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "INTERNETPERSONA",
@@ -32529,7 +32529,7 @@
   },
   {
     username: "bibihadong",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "zohaibayub",
@@ -32537,15 +32537,15 @@
   },
   {
     username: "jonis",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "finsley",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "metaversys",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "mjoluwafemi",
@@ -32557,11 +32557,11 @@
   },
   {
     username: "serly",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "manu5988",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Asma615",
@@ -32577,7 +32577,7 @@
   },
   {
     username: "delords",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "mohsin88",
@@ -32585,7 +32585,7 @@
   },
   {
     username: "beben999",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "billioncats",
@@ -32593,7 +32593,7 @@
   },
   {
     username: "Stellyji",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "zzrtcr8tr",
@@ -32601,15 +32601,15 @@
   },
   {
     username: "chocolatos",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "raguna",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Israeeljr",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "viettx.eth",
@@ -32617,7 +32617,7 @@
   },
   {
     username: "kaneki97",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "iqrakhursheed9",
@@ -32625,11 +32625,11 @@
   },
   {
     username: "sledingtop",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "user234",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "vuductien",
@@ -32637,11 +32637,11 @@
   },
   {
     username: "COCO2",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Akjhope",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Midet",
@@ -32649,19 +32649,19 @@
   },
   {
     username: "guoguoping",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "mbarto",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "cryptokid63",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "mhimhi",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "jarpix.eth",
@@ -32673,7 +32673,7 @@
   },
   {
     username: "arunmak31",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "khanzinia",
@@ -32681,7 +32681,7 @@
   },
   {
     username: "jhonatan.eth",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "wingline99",
@@ -32689,23 +32689,23 @@
   },
   {
     username: "Junit",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Biszerry",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "mejaz131",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "critsxy",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "brass",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "ALgiFH",
@@ -32717,7 +32717,7 @@
   },
   {
     username: "afrodi",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Jonk",
@@ -32725,15 +32725,15 @@
   },
   {
     username: "devil7361",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Jelite.bnb",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Dymensionking",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Princeofpeace212",
@@ -32745,15 +32745,15 @@
   },
   {
     username: "jephx",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "snaptube",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "singlad",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Mubasher78",
@@ -32773,19 +32773,19 @@
   },
   {
     username: "veta306",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "lleorezer",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "agielthree",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Sunil_ji",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Mhary",
@@ -32793,19 +32793,19 @@
   },
   {
     username: "bullletproof",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "tofake",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "1nine1",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Miftahparid",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "rabisincar",
@@ -32821,11 +32821,11 @@
   },
   {
     username: "one_",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Supremebwoy",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "mercuryeyes",
@@ -32833,15 +32833,15 @@
   },
   {
     username: "0321sm",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "istemi1",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Tibaliti",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "m11foundation",
@@ -32849,7 +32849,7 @@
   },
   {
     username: "anaksuara",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "0xJiawei",
@@ -32857,11 +32857,11 @@
   },
   {
     username: "rext",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "AirdropINDONESIA",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "ayan5201",
@@ -32869,7 +32869,7 @@
   },
   {
     username: "davut1karabulut",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Abbyben",
@@ -32881,7 +32881,7 @@
   },
   {
     username: "shiva_rudram",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "ashi5677",
@@ -32889,15 +32889,15 @@
   },
   {
     username: "mkoms",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Earnest",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "suvo44",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Babadidijr",
@@ -32905,27 +32905,27 @@
   },
   {
     username: "pabaaa",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "moneymoneymoney",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "omerfk",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "zheck",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "meguru",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "usypiyd",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Bclassy",
@@ -32933,7 +32933,7 @@
   },
   {
     username: "ameer6672",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "redfox06",
@@ -32945,7 +32945,7 @@
   },
   {
     username: "chossopian",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "kiki77",
@@ -32953,11 +32953,11 @@
   },
   {
     username: "luutm",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "dqhaz",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Julesofhertime",
@@ -32969,15 +32969,15 @@
   },
   {
     username: "Gulabpti",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "nephyy",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "hasih",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Tricksloaded",
@@ -32985,7 +32985,7 @@
   },
   {
     username: "BK201",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "ayeshakahtun",
@@ -32993,11 +32993,11 @@
   },
   {
     username: "Supergrey",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Kenrich5432",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "firozk99",
@@ -33005,19 +33005,19 @@
   },
   {
     username: "Manu21",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Spinmobz",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "amulet",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "borna99",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Bonchad",
@@ -33029,11 +33029,11 @@
   },
   {
     username: "Vampireman14",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "tholargold",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "xtinah",
@@ -33049,7 +33049,7 @@
   },
   {
     username: "GoldRoger95",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "veek_tour",
@@ -33057,11 +33057,11 @@
   },
   {
     username: "souraveroy",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "nobara",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Bugetti",
@@ -33069,7 +33069,7 @@
   },
   {
     username: "RYSZZ",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "hayriuludag",
@@ -33077,11 +33077,11 @@
   },
   {
     username: "Mamunur01",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "14000",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Queenlizzy2018",
@@ -33093,7 +33093,7 @@
   },
   {
     username: "swapon4",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Ayushadex",
@@ -33105,19 +33105,19 @@
   },
   {
     username: "phongquocdz",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "azmann",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "phantomhive",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "jmartinez1809",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "ifat044",
@@ -33133,7 +33133,7 @@
   },
   {
     username: "riyadi83",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "itstammo777",
@@ -33141,15 +33141,15 @@
   },
   {
     username: "zyoru",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "ramana115",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "shuly",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "soxy",
@@ -33161,11 +33161,11 @@
   },
   {
     username: "ahonx037",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "y59",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "happydemeek",
@@ -33181,15 +33181,15 @@
   },
   {
     username: "Tdas557",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "romini",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "princessejah",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "snowdrops",
@@ -33197,7 +33197,7 @@
   },
   {
     username: "dj_Dreamer",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Asterisks",
@@ -33205,23 +33205,23 @@
   },
   {
     username: "tanjiro5",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "resturph",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "_Airdrop",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "pankajkaundal",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "nitishkumar999",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "iLoveBtc",
@@ -33229,19 +33229,19 @@
   },
   {
     username: "oxecrypto",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "nchawre2022",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "ManeTaizou",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Ouver",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "shayanAkbar",
@@ -33249,11 +33249,11 @@
   },
   {
     username: "ikyy26",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "KeyToWeb3",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "rmsmuthu",
@@ -33261,11 +33261,11 @@
   },
   {
     username: "LisaAn",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "buje",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Vaibhav1122",
@@ -33273,7 +33273,7 @@
   },
   {
     username: "nik_vazovskii",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Anassyn",
@@ -33281,7 +33281,7 @@
   },
   {
     username: "Sharkman",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "200010",
@@ -33293,11 +33293,11 @@
   },
   {
     username: "klaten_ebs",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Noufal2K",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "LiyJai",
@@ -33305,11 +33305,11 @@
   },
   {
     username: "berak26",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "veneno1s",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "gglike",
@@ -33317,11 +33317,11 @@
   },
   {
     username: "schemer0001",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "yoichi17",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Horla0717",
@@ -33329,7 +33329,7 @@
   },
   {
     username: "Malati18",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "azlankhan",
@@ -33337,11 +33337,11 @@
   },
   {
     username: "sinydn",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "CryptoInvestor1",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "iksan",
@@ -33349,11 +33349,11 @@
   },
   {
     username: "Hapsari",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "grizzling",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "grxid",
@@ -33361,7 +33361,7 @@
   },
   {
     username: "lahjepe",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "secondball",
@@ -33369,11 +33369,11 @@
   },
   {
     username: "shan302",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "DrAvocado",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "savash50",
@@ -33385,19 +33385,19 @@
   },
   {
     username: "nairaandini98",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "AlexisTexeiro",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "duy90",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Amaresh",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "shaizu4u",
@@ -33417,7 +33417,7 @@
   },
   {
     username: "navlob",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Dohra19",
@@ -33425,7 +33425,7 @@
   },
   {
     username: "ajirismawan",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Kaystring_C",
@@ -33433,7 +33433,7 @@
   },
   {
     username: "Darksun",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "mkmerq",
@@ -33441,15 +33441,15 @@
   },
   {
     username: "itachikun",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "ebdcrypto",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "ilhamx",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "wellox",
@@ -33457,7 +33457,7 @@
   },
   {
     username: "haoling",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "metaend",
@@ -33465,15 +33465,15 @@
   },
   {
     username: "wangzishuang",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "rambhai",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "innocent35",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "makaan4",
@@ -33481,11 +33481,11 @@
   },
   {
     username: "gritikpandey",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "penguqueen",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "dadimungkin",
@@ -33497,19 +33497,19 @@
   },
   {
     username: "Tativa",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "oreoluwa01",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "usmanjanjua",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Jayachandra",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "mahdyh7u",
@@ -33517,15 +33517,15 @@
   },
   {
     username: "dex0745",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "mk_roy",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "lkn77",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "errorkin",
@@ -33537,7 +33537,7 @@
   },
   {
     username: "MetaverseON",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "DOLLARVARUN",
@@ -33545,7 +33545,7 @@
   },
   {
     username: "OzengK",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "wavewater",
@@ -33553,7 +33553,7 @@
   },
   {
     username: "tissot",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "zidhann",
@@ -33561,15 +33561,15 @@
   },
   {
     username: "bien",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "r0mance",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "dc33",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "phaver_crypto",
@@ -33577,7 +33577,7 @@
   },
   {
     username: "maksk2",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Torvin09",
@@ -33585,11 +33585,11 @@
   },
   {
     username: "jodie",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "axiexcite",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "0x686868.eth",
@@ -33597,15 +33597,15 @@
   },
   {
     username: "Jackell",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "sshiv1221",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "viral221104",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "pitambar",
@@ -33621,27 +33621,27 @@
   },
   {
     username: "Herjyborlah",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "yvngjay",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Osama111987",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Krait",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "rachu00",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Koseola",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Zikhas",
@@ -33661,11 +33661,11 @@
   },
   {
     username: "hynix",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "oiz",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "kuicpet",
@@ -33677,15 +33677,15 @@
   },
   {
     username: "vesperlynd",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Hoangan412",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "junaidijaz",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "olaenergy",
@@ -33697,15 +33697,15 @@
   },
   {
     username: "sh0707",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "uday123",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Takahibe",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "cscitone",
@@ -33717,23 +33717,23 @@
   },
   {
     username: "mani19961",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "cimottyzen",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "manobilli921",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "oyinDAYO",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "xiaosiwo",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "phairembamd",
@@ -33741,11 +33741,11 @@
   },
   {
     username: "rskone",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "pantaq",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Cdtech",
@@ -33753,19 +33753,19 @@
   },
   {
     username: "thantsithuko",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "SamElGraced",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "praveenraj",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Raymos",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "MuneebImran519",
@@ -33773,39 +33773,39 @@
   },
   {
     username: "ziroel",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Er4dicate",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Drax09",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Mjking",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "chaw48",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Parleymon",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Elodhan",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "dana123",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "kavivarma",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "mushtaq229",
@@ -33813,19 +33813,19 @@
   },
   {
     username: "lansion",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "oxbot",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "skymavis",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "vinuyamjala2303",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "bejo13",
@@ -33833,7 +33833,7 @@
   },
   {
     username: "helloguo",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Paramita_Ip",
@@ -33845,19 +33845,19 @@
   },
   {
     username: "tapcoins",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "comega68",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Phantomer",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "caygo",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "lol88",
@@ -33865,7 +33865,7 @@
   },
   {
     username: "jpbrutal",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "andy-pro",
@@ -33881,19 +33881,19 @@
   },
   {
     username: "sgbl1688",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "drahen",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Koushiknoah",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "onurcil",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "ayu478965",
@@ -33901,11 +33901,11 @@
   },
   {
     username: "Elainne",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "dharm4545",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Shahzaib9",
@@ -33913,39 +33913,39 @@
   },
   {
     username: "facel11",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "anishmw250302",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "24",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Thef",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "GSHNGSHN",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "okgolu",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "too197911",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "gravechef",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Shabari",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "dennatattuy",
@@ -33953,7 +33953,7 @@
   },
   {
     username: "Ajjeee",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "zimran85",
@@ -33961,7 +33961,7 @@
   },
   {
     username: "attwa",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "chingu123",
@@ -33969,11 +33969,11 @@
   },
   {
     username: "itsshiv",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "huzaifagul",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "jahangir96",
@@ -33985,19 +33985,19 @@
   },
   {
     username: "galramdhan",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "afrozch1515",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "ayunghen",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "bggubo1",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "carrotchan",
@@ -34005,11 +34005,11 @@
   },
   {
     username: "dacnong2013",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "macinfinity",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Pamsino1ne",
@@ -34017,11 +34017,11 @@
   },
   {
     username: "Memett",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "uzma",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "waloaq",
@@ -34029,7 +34029,7 @@
   },
   {
     username: "krisnaf",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "powella2013",
@@ -34041,11 +34041,11 @@
   },
   {
     username: "daveinfame",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "faisaljan777",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Mina.phaver",
@@ -34053,7 +34053,7 @@
   },
   {
     username: "gaogao_0617",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "nft_tipster",
@@ -34061,11 +34061,11 @@
   },
   {
     username: "lezxe",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "cryptologin",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Onosebee",
@@ -34077,15 +34077,15 @@
   },
   {
     username: "foxgaming1444",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "hiroboss",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Fursik",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Rivanshi",
@@ -34093,15 +34093,15 @@
   },
   {
     username: "zimmiy",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "nagi007",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "aniu758",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "KashifAfsar",
@@ -34129,7 +34129,7 @@
   },
   {
     username: "filippov.0001",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "rahulsharma6",
@@ -34137,15 +34137,15 @@
   },
   {
     username: "TheMehmet",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "emp",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "0xsemka",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "smartmoon",
@@ -34153,11 +34153,11 @@
   },
   {
     username: "aboutriver",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "arokmub",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Aashish808",
@@ -34169,23 +34169,23 @@
   },
   {
     username: "Darinda04",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "subrat987",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "IlhamAsli",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Gondal7",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Dris",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Farzane_Mojahedi",
@@ -34201,11 +34201,11 @@
   },
   {
     username: "ahmadkong",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Era_Chu",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Digitz",
@@ -34213,7 +34213,7 @@
   },
   {
     username: "lokid",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "HrsSkea",
@@ -34221,7 +34221,7 @@
   },
   {
     username: "memehub",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "mehdinft",
@@ -34237,7 +34237,7 @@
   },
   {
     username: "wizardo",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "markdo",
@@ -34245,19 +34245,19 @@
   },
   {
     username: "zybzero",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "mynameisdimaz.eth",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "sathar007",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Rohanlambhate",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "cryptopropoved",
@@ -34265,15 +34265,15 @@
   },
   {
     username: "Mondcoon",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Donihula",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "ChenXiang",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "NancyA",
@@ -34289,11 +34289,11 @@
   },
   {
     username: "Charlzz",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Heinhtet0",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Dimasik",
@@ -34305,19 +34305,19 @@
   },
   {
     username: "moyai",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "sieghart",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "cryptode18",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Hunter88",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "focneth",
@@ -34333,7 +34333,7 @@
   },
   {
     username: "0xedm",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "ozdemirf",
@@ -34353,19 +34353,19 @@
   },
   {
     username: "tauseef",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "chokkygee44",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "ccicek",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "xiaolai",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Achagg",
@@ -34377,15 +34377,15 @@
   },
   {
     username: "taohuahua",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Ansaf",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "woycok",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Vch172",
@@ -34401,7 +34401,7 @@
   },
   {
     username: "Olamus5",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "pendeljp",
@@ -34421,15 +34421,15 @@
   },
   {
     username: "dundani",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Vijayd",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "mounir2024",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Zafar9044690",
@@ -34441,7 +34441,7 @@
   },
   {
     username: "atompham",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "TEETH",
@@ -34449,11 +34449,11 @@
   },
   {
     username: "Big_B",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "parmes4u",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Adams111",
@@ -34465,7 +34465,7 @@
   },
   {
     username: "jiteshshekhawat",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "clownworld",
@@ -34473,7 +34473,7 @@
   },
   {
     username: "sjkm67",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "arsya8915",
@@ -34481,7 +34481,7 @@
   },
   {
     username: "alfatihboy",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "ahmedshafi4421",
@@ -34501,15 +34501,15 @@
   },
   {
     username: "MahalkaPriyansh",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Lence_Nasim",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "talktojakeer",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "pao",
@@ -34529,27 +34529,27 @@
   },
   {
     username: "mumsyire",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "jamsheed11",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "AXAdjodi",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "mumarirfan",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Happynes",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "oree",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "SajidulOmar",
@@ -34557,23 +34557,23 @@
   },
   {
     username: "padmasri",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "mandeepmsvk",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Selfblok",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "0xalp",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "zomet",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "SaqlainAli",
@@ -34589,11 +34589,11 @@
   },
   {
     username: "M4NU33",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "thelo",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "panik",
@@ -34601,19 +34601,19 @@
   },
   {
     username: "tnf",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "saivinu1920",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "synclabs",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "julicrypto",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Kren",
@@ -34645,11 +34645,11 @@
   },
   {
     username: "sakhtar",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Nanibabugh",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "fushp",
@@ -34657,7 +34657,7 @@
   },
   {
     username: "rajibbtc",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "derib",
@@ -34665,7 +34665,7 @@
   },
   {
     username: "Madhut_123",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Airdropkeramat",
@@ -34677,11 +34677,11 @@
   },
   {
     username: "web3grep",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "polatbtc",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "mantoshdebnath",
@@ -34693,11 +34693,11 @@
   },
   {
     username: "karmilec",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Ghanjera26928",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "yaokianshu",
@@ -34705,7 +34705,7 @@
   },
   {
     username: "SKNxz3000",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "ke77",
@@ -34713,11 +34713,11 @@
   },
   {
     username: "sunny55",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "hallozjh",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "budiaja",
@@ -34737,11 +34737,11 @@
   },
   {
     username: "purr",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Samuel143",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "joyiaa",
@@ -34757,11 +34757,11 @@
   },
   {
     username: "cryptohotnews",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "cryptohamster32",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Kulukulu",
@@ -34773,7 +34773,7 @@
   },
   {
     username: "freeworld",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Celily",
@@ -34781,7 +34781,7 @@
   },
   {
     username: "1stOdogwu",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "speide",
@@ -34789,19 +34789,19 @@
   },
   {
     username: "rincy",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "soul",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "nurahmadfauzi",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "brutalx",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "ArshiaGS",
@@ -34809,23 +34809,23 @@
   },
   {
     username: "adyprastyo780",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "scamfluencer",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Roronoazoro",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "smartcornel",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "DipoDaniel",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Zackfair",
@@ -34833,7 +34833,7 @@
   },
   {
     username: "konst643",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "mohiqbal",
@@ -34853,7 +34853,7 @@
   },
   {
     username: "Moonstarxyz",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Vernon_003",
@@ -34869,15 +34869,15 @@
   },
   {
     username: "tuananh1411",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "fakhrur",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "certyintegrated",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Saurab1",
@@ -34889,7 +34889,7 @@
   },
   {
     username: "erick87",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "tuncerkerem",
@@ -34897,15 +34897,15 @@
   },
   {
     username: "Menakan",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Pigachuu",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "ijaff",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "itachi0669x",
@@ -34913,7 +34913,7 @@
   },
   {
     username: "Acqaman",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "sePu112",
@@ -34921,27 +34921,27 @@
   },
   {
     username: "honeffizy",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "MasterChef",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Mogadorien",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "-BRC 20,00",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "strangemen",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Gooodboysz",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Succex14",
@@ -34949,15 +34949,15 @@
   },
   {
     username: "xristofcrypto",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "luckyzero",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "anid20200",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "phphuong",
@@ -34965,47 +34965,47 @@
   },
   {
     username: "gjhiuthf",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "juliansiena",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "sumanmina",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Smartbott",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "bagolNFT",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Asmara112",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "komal07",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "richard09",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "dewilovely18",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "mgulfam",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "saifalam",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "dcul",
@@ -35013,11 +35013,11 @@
   },
   {
     username: "mhyns",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "davidsm",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "prometric007",
@@ -35045,19 +35045,19 @@
   },
   {
     username: "593nft",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Husainalawalk",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "zayden",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "blmarwal",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "satosiji",
@@ -35065,7 +35065,7 @@
   },
   {
     username: "nonsense",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "abufayanna",
@@ -35073,11 +35073,11 @@
   },
   {
     username: "Timonprynce",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "adityakr56",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Granduncle",
@@ -35097,15 +35097,15 @@
   },
   {
     username: "1shdhd",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Nikimimizak",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Ashrafmalik",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "nurhidayat12",
@@ -35113,7 +35113,7 @@
   },
   {
     username: "rezahan",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "reyes1113",
@@ -35121,15 +35121,15 @@
   },
   {
     username: "memeda",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "xxxJay123",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "buixuantoan",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "mtsagar",
@@ -35137,11 +35137,11 @@
   },
   {
     username: "calderycb",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Sufrael",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "risingaaj",
@@ -35149,19 +35149,19 @@
   },
   {
     username: "Tinu75",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "animaceo",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "V3n3ix",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "sulastri",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Crossemmy",
@@ -35169,11 +35169,11 @@
   },
   {
     username: "sidus",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Jaya_Sankar_Rock_s",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Arshad121",
@@ -35181,11 +35181,11 @@
   },
   {
     username: "toyinnjosh",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "yrai",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "cryptoguytelugu",
@@ -35193,23 +35193,23 @@
   },
   {
     username: "Web3enjoyerx",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Blacklegend",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "huyr6",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Dizel",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "gabasin",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Siddiqeu",
@@ -35217,15 +35217,15 @@
   },
   {
     username: "litom",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "LaylaTran1510",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "farhand93",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Phucker",
@@ -35233,15 +35233,15 @@
   },
   {
     username: "ohmyzonsss",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "mvenkateshnaik",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "chandrakness",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "chengchen1992",
@@ -35249,7 +35249,7 @@
   },
   {
     username: "revolsea",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "avis_k",
@@ -35265,7 +35265,7 @@
   },
   {
     username: "lawla",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Er.izmir",
@@ -35273,7 +35273,7 @@
   },
   {
     username: "Rajeev2024",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "baekmook",
@@ -35289,11 +35289,11 @@
   },
   {
     username: "DFRAMES",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "avalon666",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "take5",
@@ -35305,15 +35305,15 @@
   },
   {
     username: "heydi.eth",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "kavindunx",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "LyfSeeker",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "davidleo4141",
@@ -35325,7 +35325,7 @@
   },
   {
     username: "dafengchui",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "fuyu256",
@@ -35341,15 +35341,15 @@
   },
   {
     username: "whenlambosir",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Masudul",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "sting2024",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "keniaaa",
@@ -35357,11 +35357,11 @@
   },
   {
     username: "hasjabrain",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "hongcheng",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Crypt0_Invader",
@@ -35369,11 +35369,11 @@
   },
   {
     username: "valuverse",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "harbox",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Jeddie",
@@ -35397,11 +35397,11 @@
   },
   {
     username: "Sinan3798",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "kkkaufsfs",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "gkivircik",
@@ -35413,7 +35413,7 @@
   },
   {
     username: "wildansadhega",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "onikhassan43",
@@ -35429,15 +35429,15 @@
   },
   {
     username: "bachphong",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "a3aziz",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "stephenhan",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "imhukam",
@@ -35445,7 +35445,7 @@
   },
   {
     username: "bangbro",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "darkfury",
@@ -35461,15 +35461,15 @@
   },
   {
     username: "Frank7777",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "mturan",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "pawan07",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Anila",
@@ -35477,7 +35477,7 @@
   },
   {
     username: "ncandide",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "lanregas",
@@ -35485,7 +35485,7 @@
   },
   {
     username: "xzty2000",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "davethegamer",
@@ -35493,7 +35493,7 @@
   },
   {
     username: "peke",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Frankpaschal",
@@ -35501,7 +35501,7 @@
   },
   {
     username: "laiba444",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "bangjacks79",
@@ -35509,15 +35509,15 @@
   },
   {
     username: "Ljl1558633530",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "bitjoe",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "HoangAn",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "faithwise",
@@ -35525,23 +35525,23 @@
   },
   {
     username: "yyss",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "fck",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "nafaisal",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "HL_",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "mov",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "chollo88",
@@ -35557,7 +35557,7 @@
   },
   {
     username: "D7D7",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "samirarah",
@@ -35565,7 +35565,7 @@
   },
   {
     username: "farizsalman678",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "airdropking",
@@ -35577,7 +35577,7 @@
   },
   {
     username: "toantran58",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "owaishussain",
@@ -35585,19 +35585,19 @@
   },
   {
     username: "ChrisBCK",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "ITE12",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "khutu89",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "rfle",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "gariban",
@@ -35605,11 +35605,11 @@
   },
   {
     username: "PoNd",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "imdavidkarn",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "jordan4",
@@ -35617,19 +35617,19 @@
   },
   {
     username: "youbaba",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Shidou",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "xiaomaomao",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "SAIKIRAN4",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "ashfaqudheen",
@@ -35637,11 +35637,11 @@
   },
   {
     username: "zayanatqan",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "DocxTrader",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "LENS19",
@@ -35661,11 +35661,11 @@
   },
   {
     username: "widodoxd",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "piush0313",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "jamilahmadjalal",
@@ -35677,19 +35677,19 @@
   },
   {
     username: "Arramass",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "shallery",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "lumiglade",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "mt901114",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "andior0927",
@@ -35697,7 +35697,7 @@
   },
   {
     username: "hermedora",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "llmary",
@@ -35705,15 +35705,15 @@
   },
   {
     username: "aluosheng",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "mirielle",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "orderbound",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "katievorhan",
@@ -35721,19 +35721,19 @@
   },
   {
     username: "Fjarx",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Cripticdj",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "CryptoBaron",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "TheGrendels",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "bishal743144",
@@ -35745,15 +35745,15 @@
   },
   {
     username: "vip001",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "ahpo",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "smartfish",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "fahad6330",
@@ -35761,47 +35761,47 @@
   },
   {
     username: "KEDA",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "javad.jalili",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "klopoijo",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "ngoctanvp",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "qwerrttt",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "theshydhx",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "saif",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Naveen20",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "harsholeboy",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "cricketer01",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "cryptopandit",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "olamidescott",
@@ -35809,15 +35809,15 @@
   },
   {
     username: "MirhaAli",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "0xfandy",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "khengarji",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "wen0611",
@@ -35825,7 +35825,7 @@
   },
   {
     username: "kbimantara",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "kolpll",
@@ -35841,19 +35841,19 @@
   },
   {
     username: "Opakash123",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Bgst24",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Svetelinka",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Mayurvats",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "anildaila",
@@ -35869,15 +35869,15 @@
   },
   {
     username: "ethw",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "seykay",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Homosapiens",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "temidizzle",
@@ -35889,19 +35889,19 @@
   },
   {
     username: "AlexFAQCrypto",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Sky513",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "NguyenDu",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Arifuddin045",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Usdfreedom",
@@ -35909,43 +35909,43 @@
   },
   {
     username: "SALT.101",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "ItzSayanKoley",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "cybex",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Xettri1438",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "99le16",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "shakil2002",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "nmixx",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "indra0203",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Yosipuspa",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "irhasaja",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "cryptoinspector",
@@ -35953,31 +35953,31 @@
   },
   {
     username: "Robert1a1",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "haoqiao",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "JelitaLovers",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Uxlink2",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "crypto_crasta",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "abelian",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "weiwei1004",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "beebabyyy",
@@ -35985,23 +35985,23 @@
   },
   {
     username: "furpunkz",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "NeFerTiti",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "iGuntes",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Sristy05",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "zoora",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Raresh0ts",
@@ -36009,15 +36009,15 @@
   },
   {
     username: "dyn92",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "AriOge",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Haiti",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "princex1992",
@@ -36025,35 +36025,35 @@
   },
   {
     username: "Madridistaa",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "dobedobo",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "aachal",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "kimba25",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "maomaoff",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "GenaAchu1",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Cheyz",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "ckghau",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Doltee",
@@ -36061,11 +36061,11 @@
   },
   {
     username: "Souravjr0",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Lemon828",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "c400twinturbo",
@@ -36073,19 +36073,19 @@
   },
   {
     username: "vinafira",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "mashaji",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "mustaya",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "timtimtim.eth",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Fibonacci",
@@ -36093,19 +36093,19 @@
   },
   {
     username: "MideHam",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "nimaa",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "xiaoleduo",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Xx980505",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Xcellentchacha",
@@ -36125,11 +36125,11 @@
   },
   {
     username: "Asep08",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Ratansrivastava",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "gakss",
@@ -36149,11 +36149,11 @@
   },
   {
     username: "Sulayiman93",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "sandalwood",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "panda123",
@@ -36161,15 +36161,15 @@
   },
   {
     username: "cryptotelangna",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "hhhhh0901",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "sivamthi",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "jamie1166",
@@ -36177,11 +36177,11 @@
   },
   {
     username: "jagveers007",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "tomazzino",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "chacopome",
@@ -36189,31 +36189,31 @@
   },
   {
     username: "ridwan93",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Ganzore",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "umangp735",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "qxdz",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Ashmaweel",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "jimin9",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "eyi-Ojo",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Mdimran205",
@@ -36225,15 +36225,15 @@
   },
   {
     username: "swotman",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "lucan",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Heykinz",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Nerosoft",
@@ -36245,7 +36245,7 @@
   },
   {
     username: "JNayim",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "xindingriji",
@@ -36257,19 +36257,19 @@
   },
   {
     username: "Mohan909",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Akhmal",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "avijitbtc",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Choco_Late009",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "tesco01",
@@ -36285,7 +36285,7 @@
   },
   {
     username: "tg85",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "physicsofcoins",
@@ -36293,11 +36293,11 @@
   },
   {
     username: "ccang",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "pephjay1",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "dalkiliicc",
@@ -36305,15 +36305,15 @@
   },
   {
     username: "mertbehic",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "web3future",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Kesniel_Athiei",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Anks11",
@@ -36341,11 +36341,11 @@
   },
   {
     username: "preshy_11",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Arfi012",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "BlackSonic",
@@ -36357,11 +36357,11 @@
   },
   {
     username: "neirus",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Hehehehi",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "ebelizm",
@@ -36369,27 +36369,27 @@
   },
   {
     username: "ismav",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "yashu_05",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Aderemi212",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "snowlion",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "rickyalhijad",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "nforsi",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "jarysmora",
@@ -36397,7 +36397,7 @@
   },
   {
     username: "magnum",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "PreciousJayJay",
@@ -36405,11 +36405,11 @@
   },
   {
     username: "Deepo01",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "abudahiru96",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Bobogerald",
@@ -36417,23 +36417,23 @@
   },
   {
     username: "ilangpc",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Westmillo",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "vishalx",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "0xbullshits",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "awsome-xxxx",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "xg63",
@@ -36441,7 +36441,7 @@
   },
   {
     username: "iceswaggaming",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Vasu.phaver",
@@ -36449,15 +36449,15 @@
   },
   {
     username: "Baskonia",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "fakher",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "asty98",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Neeraj1850",
@@ -36465,7 +36465,7 @@
   },
   {
     username: "UncleAlts",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "18200",
@@ -36481,7 +36481,7 @@
   },
   {
     username: "faraz007",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Sergo86",
@@ -36497,11 +36497,11 @@
   },
   {
     username: "tomix",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "huangqz",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Eagel",
@@ -36513,11 +36513,11 @@
   },
   {
     username: "lucineee",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "cie2",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Rockets65",
@@ -36525,15 +36525,15 @@
   },
   {
     username: "alishaejaz_6752",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "kon_mnt",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "sahil_swan",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Eastorb",
@@ -36541,15 +36541,15 @@
   },
   {
     username: "zhuyu888",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "whilethe.eth",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "annasalza",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "ShivamN",
@@ -36557,15 +36557,15 @@
   },
   {
     username: "manumanu",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "imshafiiqbal",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "0xsugar",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "kkvn",
@@ -36577,7 +36577,7 @@
   },
   {
     username: "Fikryyz",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "nimoat",
@@ -36585,7 +36585,7 @@
   },
   {
     username: "neekimyong",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "torpe",
@@ -36593,7 +36593,7 @@
   },
   {
     username: "nanank",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "daniella",
@@ -36601,7 +36601,7 @@
   },
   {
     username: "appleboi",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "blockchain_star",
@@ -36621,7 +36621,7 @@
   },
   {
     username: "Badawe",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "timit",
@@ -36629,7 +36629,7 @@
   },
   {
     username: "mrdinh887",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "dandan123",
@@ -36637,7 +36637,7 @@
   },
   {
     username: "tamckd",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Duviol3",
@@ -36649,7 +36649,7 @@
   },
   {
     username: "azkadina19",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "dinholt",
@@ -36657,39 +36657,39 @@
   },
   {
     username: "Lancelot49",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "bastian",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "mina_sof",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "mudu4crypto",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "roidalfath",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "boomj",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "emmalabrador90",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "huahua01",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "haisinger",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "shoyab98",
@@ -36701,7 +36701,7 @@
   },
   {
     username: "Adebisi123",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "anhnguyen3321",
@@ -36709,47 +36709,47 @@
   },
   {
     username: "koyekk",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "popouw",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Eureka7",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "hassan94",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "najmatunnayra",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "bagussetia",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "syedgb",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Mamatstr",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "ITiMTanG",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "sameerfuddi",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "ziel1990",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "neuah",
@@ -36757,31 +36757,31 @@
   },
   {
     username: "agusdwi",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "pewe54",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Wazedig",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "milan_hara",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Ibukunoluwa",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Aslam1",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "mklove",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Ovieskillz",
@@ -36789,23 +36789,23 @@
   },
   {
     username: "dhikk",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Emrytez",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "itsganu8899",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Gbayi",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Electrical",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "lichuangbin",
@@ -36821,7 +36821,7 @@
   },
   {
     username: "wahyuff",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Gouthi43",
@@ -36833,7 +36833,7 @@
   },
   {
     username: "oksan1993",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Dizzo4you",
@@ -36841,31 +36841,31 @@
   },
   {
     username: "radia",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "combroo",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Alinka",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "ryrich",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "MamaBear",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "khalidwalid",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "jtripathy",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Rezazel21",
@@ -36873,27 +36873,27 @@
   },
   {
     username: "erani87",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "lilyamabe",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Minamino789",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "ozg17",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "hyrax",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Jboss445",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "somchai",
@@ -36905,23 +36905,23 @@
   },
   {
     username: "mintcity",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "shiva9182",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "bushrasehgal",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "rnl99",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "collinsky",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Okayuz13",
@@ -36929,7 +36929,7 @@
   },
   {
     username: "radentyb",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "numaki",
@@ -36937,7 +36937,7 @@
   },
   {
     username: "bahaddi12",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "alexpapasam",
@@ -36945,27 +36945,27 @@
   },
   {
     username: "Gojoe",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "sidkataria",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "arieffhh",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "mrhidayat761",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "gobio4gobio",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Rajunaidu",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Riyajasif95",
@@ -36977,23 +36977,23 @@
   },
   {
     username: "binunu",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "gizdusum",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "topix",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "zlank",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "galih08",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "anaga",
@@ -37001,11 +37001,11 @@
   },
   {
     username: "superliko89",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "don_",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Gags1987",
@@ -37013,11 +37013,11 @@
   },
   {
     username: "tuliakter",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "losko",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "RemyaCrypto",
@@ -37025,15 +37025,15 @@
   },
   {
     username: "exynos.eth",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "gmcitter",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "yankee",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "esrerl",
@@ -37049,35 +37049,35 @@
   },
   {
     username: "Tranvuongsn",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "yka",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Yuki-gong",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "koko3399",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Pudidi1",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "typhoon",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "joosake",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Ahha457",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Bufti",
@@ -37085,27 +37085,27 @@
   },
   {
     username: "solanapandamen",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Arghi981311",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Maliya",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Marquise",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "long-story-short",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "AmroKhattab",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Shabbir360",
@@ -37113,47 +37113,47 @@
   },
   {
     username: "jesicaariana502",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "thutra",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Preky11111",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Aladdin89",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Shakara99",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "elenajohn",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Draxcler",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "paulm",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "bani2812",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "debeloved07",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "reasons",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Mamadea",
@@ -37169,15 +37169,15 @@
   },
   {
     username: "afolabi.ola",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "austinjay",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Tetphilosopher",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Sanju007",
@@ -37185,11 +37185,11 @@
   },
   {
     username: "joy89",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "zqjzero",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "meviusORG",
@@ -37197,11 +37197,11 @@
   },
   {
     username: "KrissThu",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "ahmedhodlerr",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Alienbot",
@@ -37209,7 +37209,7 @@
   },
   {
     username: "Ysssssssi7",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Sergiogsv",
@@ -37217,27 +37217,27 @@
   },
   {
     username: "Abex128",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "maruf07",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "dreamjourneyhk",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "crypt_phaves",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "LeoYi",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "yahikone",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Janny15",
@@ -37245,31 +37245,31 @@
   },
   {
     username: "mrlily",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "nursyafiq",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "admin78",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "adong123",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "farislabib",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "zava",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "blockaholic",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Circassian",
@@ -37277,7 +37277,7 @@
   },
   {
     username: "Blankman",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "earncontinue",
@@ -37285,7 +37285,7 @@
   },
   {
     username: "PainKilleR",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "0xTamEr",
@@ -37297,15 +37297,15 @@
   },
   {
     username: "dunk12",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "harish__BANSAL",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Xxwwwf",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "CertifiedTility",
@@ -37317,7 +37317,7 @@
   },
   {
     username: "Zeplock",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "muizalli",
@@ -37325,23 +37325,23 @@
   },
   {
     username: "aryagojek",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "zzzao",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "loro5000",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "sahabuddiin00",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "ibal572",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Bablu763",
@@ -37349,7 +37349,7 @@
   },
   {
     username: "bigmoe",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "sherazul",
@@ -37361,7 +37361,7 @@
   },
   {
     username: "meigoadstore",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "wif6y",
@@ -37369,15 +37369,15 @@
   },
   {
     username: "sabbir50",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "mirmiraa42",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "AdhiAr",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "profsanask",
@@ -37385,23 +37385,23 @@
   },
   {
     username: "wilmutbanget",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "mxuweb3",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Joekaw",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "diannpratiwie",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "deepss",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "mymoon946",
@@ -37409,7 +37409,7 @@
   },
   {
     username: "champion0581",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "syaoranthanh",
@@ -37417,7 +37417,7 @@
   },
   {
     username: "disambrit",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Gundagunda",
@@ -37425,7 +37425,7 @@
   },
   {
     username: "idrusshahab",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "kayan44",
@@ -37433,11 +37433,11 @@
   },
   {
     username: "dangbana27",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "sportjiwa",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "land4k",
@@ -37457,47 +37457,47 @@
   },
   {
     username: "moonnomad",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "anjaykamubohong",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "trabeati",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Hal12241",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "MatMamatMat",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "xyz_",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "yukfei",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "vermari",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "imassahrul",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Roxys",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Sailikith2205",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "rachman165",
@@ -37505,15 +37505,15 @@
   },
   {
     username: "bwin",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "ari1",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "waqas4269",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "kammy001",
@@ -37521,15 +37521,15 @@
   },
   {
     username: "sewhan",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "nocazta",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "shinetwo",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "DraxPart",
@@ -37537,7 +37537,7 @@
   },
   {
     username: "aishwa2021",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "tealive",
@@ -37553,11 +37553,11 @@
   },
   {
     username: "datdat",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "nghiacong",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Dahvid",
@@ -37569,35 +37569,35 @@
   },
   {
     username: "Haklins",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "sugengsupriatno001",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "gomathi.a.r",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Indumathi123",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "JerryOJJ",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "boskorea",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "VuVanTruong",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "kinngy",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "surendrasan",
@@ -37621,7 +37621,7 @@
   },
   {
     username: "konomo",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "riazx",
@@ -37633,11 +37633,11 @@
   },
   {
     username: "ibadilikram16",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "gheming",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Bharat_nakwalm",
@@ -37645,23 +37645,23 @@
   },
   {
     username: "whaleblue",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "zervxt",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Usuf602",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "bangef",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "ansariikra786",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "srguti",
@@ -37669,7 +37669,7 @@
   },
   {
     username: "Litakufajitu",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "alishtuf",
@@ -37677,15 +37677,15 @@
   },
   {
     username: "obeth",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "leogem884",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "depegger",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "lmht123mc",
@@ -37693,19 +37693,19 @@
   },
   {
     username: "lian430",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Bentley54321",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Nguyentrinh",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "MomoCrazy",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "opejamyu",
@@ -37717,7 +37717,7 @@
   },
   {
     username: "itzok",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "nicole222888",
@@ -37725,27 +37725,27 @@
   },
   {
     username: "intelli",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "rizqi5758",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "0xluo",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Rohanjagrat",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Cryptony",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "zuoshanke",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "beenneegod",
@@ -37753,39 +37753,39 @@
   },
   {
     username: "xsylfa",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Kronix",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Bafoweny",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "0xKingsman",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Apa",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Weng98",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "mintumagic",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "jideofor",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "salsabil2020",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "ehlikeyif",
@@ -37793,15 +37793,15 @@
   },
   {
     username: "linhlinhh",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "lejintian",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "medianevos",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Chintan543",
@@ -37809,15 +37809,15 @@
   },
   {
     username: "zkdecky",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "ninoritha",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "crappyness2912",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "odygunn",
@@ -37825,31 +37825,31 @@
   },
   {
     username: "javipt",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "syyy",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "OZaddy",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "tvs3126",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "imshohib",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "mdsiam135",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "abhireb",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "cryptonewbiee",
@@ -37857,7 +37857,7 @@
   },
   {
     username: "binhnguyen79",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "mangohumble5",
@@ -37865,23 +37865,23 @@
   },
   {
     username: "Sajl84",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "silver123",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "rikysafdi",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Theophilz",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "azhar_85",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "heysumanth",
@@ -37889,15 +37889,15 @@
   },
   {
     username: "baz100x",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "coinamu",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Mykel01",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "shrs0402",
@@ -37905,35 +37905,35 @@
   },
   {
     username: "sjfufudhdene",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "azampathan",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Greatedwards",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "diemquynh",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "kimnguyen",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "chaoh7338",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Glitzz01",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "maheshithelp",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "DrGuez",
@@ -37941,31 +37941,31 @@
   },
   {
     username: "suhasdasari",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "crytofish",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "linhlinhhh",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "pannu386",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "xilate",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "DrAcay1",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Dafi2708",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "trezz",
@@ -37973,11 +37973,11 @@
   },
   {
     username: "idda",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "hungnguyen47",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "wicaksonoari789",
@@ -37989,11 +37989,11 @@
   },
   {
     username: "pingye",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "dadunibadil",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "r9",
@@ -38001,15 +38001,15 @@
   },
   {
     username: "thaopre",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "DonnaBabi",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "RUM19",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "zordogan",
@@ -38021,23 +38021,23 @@
   },
   {
     username: "money0921",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "xiumoney",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Cocomo",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "yuangungun",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Gentle09",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "bulletjnr",
@@ -38045,23 +38045,23 @@
   },
   {
     username: "hiro17677",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Nabil23",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "rifaululum",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "tony1",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "quynhbupbe",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "retjehlegit",
@@ -38073,19 +38073,19 @@
   },
   {
     username: "silas_6",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "bigoll777",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "andridian5",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Vijay72",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "billym2k",
@@ -38097,39 +38097,39 @@
   },
   {
     username: "khanhlinh",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Cedar",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "iceboundphantom",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "imansh4597",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Mchena",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "cryptoyoyo",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "cyber6lack",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Kambeng18",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "shynne404",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "lootsone",
@@ -38137,11 +38137,11 @@
   },
   {
     username: "Grandeadalberto",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Criptanata",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "olayinkasarah5",
@@ -38149,7 +38149,7 @@
   },
   {
     username: "Fireball07",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "crate",
@@ -38157,7 +38157,7 @@
   },
   {
     username: "zou7213",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "huzefaahmed1310",
@@ -38165,31 +38165,31 @@
   },
   {
     username: "tedtod77",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "panu2710",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "chaptilak",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Tmuscle007",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "nairp007",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "mijklez",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "indralind01",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "priyathequeen",
@@ -38197,7 +38197,7 @@
   },
   {
     username: "pertamaxaja",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "cryptoConsuela",
@@ -38205,15 +38205,15 @@
   },
   {
     username: "CryptoBull88",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "omaralqisi",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Kachi08",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "arman457",
@@ -38229,15 +38229,15 @@
   },
   {
     username: "riefh",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "cryptobasu",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "midedebby",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Heroikzre",
@@ -38249,15 +38249,15 @@
   },
   {
     username: "lu277",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "rksbsa17",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "alie121",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "chirpchamp",
@@ -38265,15 +38265,15 @@
   },
   {
     username: "Lawresium103",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "killbillking36",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Alen",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "giant4bisnis",
@@ -38281,15 +38281,15 @@
   },
   {
     username: "Aryanrana01",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "mezie",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "facerracer63",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "ShefmanPHA",
@@ -38297,7 +38297,7 @@
   },
   {
     username: "itsmhk",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Walex2302",
@@ -38305,7 +38305,7 @@
   },
   {
     username: "amirrojhan",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "benzpapi",
@@ -38317,7 +38317,7 @@
   },
   {
     username: "hustlr",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Royal1759",
@@ -38325,7 +38325,7 @@
   },
   {
     username: "grandhonk",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "skmostafijul",
@@ -38333,11 +38333,11 @@
   },
   {
     username: "banfff",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "gupron",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "shipper",
@@ -38345,15 +38345,15 @@
   },
   {
     username: "0xMav",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "AKUSINACHUKWU",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "baddak",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "nani__002",
@@ -38361,7 +38361,7 @@
   },
   {
     username: "rippstellar",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "altonardo",
@@ -38369,7 +38369,7 @@
   },
   {
     username: "dsantial",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "yuki",
@@ -38377,7 +38377,7 @@
   },
   {
     username: "nightd",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "RyamssRk",
@@ -38389,11 +38389,11 @@
   },
   {
     username: "AdiWedsUnnu",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "robin19w0",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Hated",
@@ -38405,19 +38405,19 @@
   },
   {
     username: "amanuhima",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "j0kiz",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "gasrul",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "LikeToba",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "salaksmania",
@@ -38425,15 +38425,15 @@
   },
   {
     username: "ydyrsils",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "DandyKun",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "LeGoFunkBrother",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "0xherstory",
@@ -38441,7 +38441,7 @@
   },
   {
     username: "Marcela",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "arkra",
@@ -38449,7 +38449,7 @@
   },
   {
     username: "Queenicon1234",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "shahbaz492",
@@ -38457,15 +38457,15 @@
   },
   {
     username: "albertbrasi",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "dekwalker",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "lzb8818",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "coingyaan",
@@ -38477,7 +38477,7 @@
   },
   {
     username: "cryptomafioznik",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "waseyi",
@@ -38505,7 +38505,7 @@
   },
   {
     username: "beerlp101",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "weix6899",
@@ -38513,7 +38513,7 @@
   },
   {
     username: "domba",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Takutsun",
@@ -38521,19 +38521,19 @@
   },
   {
     username: "nknke",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "libinj",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "rrehman007",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "mascas",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Glee",
@@ -38549,23 +38549,23 @@
   },
   {
     username: "docnut",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "valera492",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "mabba4real",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "HtayAung",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Monst3r911",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "falcon8",
@@ -38581,11 +38581,11 @@
   },
   {
     username: "zhaosi",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "amen",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "TrenchesJ",
@@ -38601,7 +38601,7 @@
   },
   {
     username: "ghosh253",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Joshua955",
@@ -38613,11 +38613,11 @@
   },
   {
     username: "mstoma",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "alfonodes",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "hermeslch",
@@ -38637,19 +38637,19 @@
   },
   {
     username: "Budakairdroop",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "ajprime29",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "bish201",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "cryptopig",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "KayAkiko",
@@ -38669,7 +38669,7 @@
   },
   {
     username: "alfycrypto",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "joy9527",
@@ -38677,23 +38677,23 @@
   },
   {
     username: "Dictamycin",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "ochyz",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "edhitia",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "cakkiki",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "stoup",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "moeez07",
@@ -38705,11 +38705,11 @@
   },
   {
     username: "Mixcz089",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "abhin1148",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Mustee",
@@ -38721,23 +38721,23 @@
   },
   {
     username: "moohyul",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "iamsusanto02",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "beorider",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "moe299",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "crypbtc",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "yogeshrai",
@@ -38745,7 +38745,7 @@
   },
   {
     username: "Asma07",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "001sas",
@@ -38753,11 +38753,11 @@
   },
   {
     username: "kaigainikki_",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "pahirock",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "wealthbazaar",
@@ -38769,11 +38769,11 @@
   },
   {
     username: "madstiro",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "RektDrop",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Abina1122",
@@ -38781,15 +38781,15 @@
   },
   {
     username: "fireflying",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "sagarpahadiya",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Oxcolette",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Herme32",
@@ -38801,11 +38801,11 @@
   },
   {
     username: "prateekshaD",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Graa22",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "HOM3R",
@@ -38813,15 +38813,15 @@
   },
   {
     username: "piyalpiyul",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "xizi",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "lukeyyyy08",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "borna1122",
@@ -38829,19 +38829,19 @@
   },
   {
     username: "abir04",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "YukinobuKurata",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "asrafdeen",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "yoswap",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "xd_hassaantariq",
@@ -38853,7 +38853,7 @@
   },
   {
     username: "bbsuperw",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "dghhh567",
@@ -38861,23 +38861,23 @@
   },
   {
     username: "jinzod",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "layze",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "gogocrypt",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "nuonuowen",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Damochie",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "tonurathore",
@@ -38889,11 +38889,11 @@
   },
   {
     username: "unqno",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "yoloeth",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Luksh123",
@@ -38901,7 +38901,7 @@
   },
   {
     username: "kinznft",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "mohiddin12",
@@ -38909,15 +38909,15 @@
   },
   {
     username: "Ablessing",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "dilshadak",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "ganteng",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "shaikshafi",
@@ -38925,7 +38925,7 @@
   },
   {
     username: "dustmar",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "gydezhost",
@@ -38933,7 +38933,7 @@
   },
   {
     username: "Boy2",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "inicrypt",
@@ -38945,11 +38945,11 @@
   },
   {
     username: "loru69",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "adraz",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Gramazeka",
@@ -38957,11 +38957,11 @@
   },
   {
     username: "Tramadol",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "rif13",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "matreshka",
@@ -38969,7 +38969,7 @@
   },
   {
     username: "despirados2002",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Nonye",
@@ -38985,11 +38985,11 @@
   },
   {
     username: "erwankho",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Peace444",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "2broshop",
@@ -38997,7 +38997,7 @@
   },
   {
     username: "aylar",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "AugustSoya",
@@ -39013,7 +39013,7 @@
   },
   {
     username: "yashwanthcrypto",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "ligero",
@@ -39021,19 +39021,19 @@
   },
   {
     username: "Demio",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "rohtih589sjd",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Reddy3034",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Chidozie35",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "vuongnguyen282",
@@ -39041,7 +39041,7 @@
   },
   {
     username: "BitcoinEthereumBinance",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "mojeeb",
@@ -39049,27 +39049,27 @@
   },
   {
     username: "Dcentlee",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "kirysha91",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Depakkumar",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "kizaki",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "dexhex",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Paris11",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "JoachimIfy",
@@ -39077,11 +39077,11 @@
   },
   {
     username: "riwansaputra",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "ablemahn1",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "SumitSoni",
@@ -39097,11 +39097,11 @@
   },
   {
     username: "rockystar28",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "nguyentuan0108",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Alexandrelee",
@@ -39113,11 +39113,11 @@
   },
   {
     username: "Apengpoh",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "df15",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "faisal339",
@@ -39125,7 +39125,7 @@
   },
   {
     username: "wanyuyuan",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Arrakib",
@@ -39133,15 +39133,15 @@
   },
   {
     username: "thechokolateguy",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "cypto",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "anji37udh",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "aqsach",
@@ -39149,7 +39149,7 @@
   },
   {
     username: "Dilipxphaver",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "vegapunk1",
@@ -39157,7 +39157,7 @@
   },
   {
     username: "ellios88",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "error404",
@@ -39177,27 +39177,27 @@
   },
   {
     username: "Bars_",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Zeecrypto12",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Dejibabanla",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "akimitsu",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Shota55",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "rdpahalavan",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "ipanxcool",
@@ -39205,7 +39205,7 @@
   },
   {
     username: "Seiko448",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "maqbool_N",
@@ -39213,15 +39213,15 @@
   },
   {
     username: "catauciu",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "endonfire",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "wind2208",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Legendd",
@@ -39229,11 +39229,11 @@
   },
   {
     username: "Aringim1",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "qunimade",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Shahidirfan",
@@ -39241,11 +39241,11 @@
   },
   {
     username: "Blekere",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "joboi1",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Sudipta401",
@@ -39253,19 +39253,19 @@
   },
   {
     username: "BianBian",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "selfie",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "dimas1987",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Adonis1989",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "alikut",
@@ -39277,7 +39277,7 @@
   },
   {
     username: "lyyyy",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "official_omah",
@@ -39285,7 +39285,7 @@
   },
   {
     username: "EsDawet",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Angelfaced",
@@ -39293,15 +39293,15 @@
   },
   {
     username: "Mursleen",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "irwancks441.moca",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Vins",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "fqtee",
@@ -39317,27 +39317,27 @@
   },
   {
     username: "Seaway",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "KAPITOLLIKA",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "sandeepbhall1",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "smartbrain",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "almanrusi",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "brow",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "vertual-bacon",
@@ -39345,11 +39345,11 @@
   },
   {
     username: "rjxk82",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "osbdz",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "toshie",
@@ -39361,11 +39361,11 @@
   },
   {
     username: "bigprince",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Gravoir",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "skym0re",
@@ -39373,7 +39373,7 @@
   },
   {
     username: "Ogjx",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "DegenKript",
@@ -39381,11 +39381,11 @@
   },
   {
     username: "segoro",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "0xCur",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Dinhthuc",
@@ -39397,7 +39397,7 @@
   },
   {
     username: "a2low",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "mygirl",
@@ -39405,15 +39405,15 @@
   },
   {
     username: "kumar3202",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "suvoo",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "irudare",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "KasmirKasie19",
@@ -39421,15 +39421,15 @@
   },
   {
     username: "kellyjoe8",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "kildam",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "0xDk",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "bitinvest88",
@@ -39437,11 +39437,11 @@
   },
   {
     username: "irmanmt21",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "chenC",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "catalystt",
@@ -39449,11 +39449,11 @@
   },
   {
     username: "thewetcat",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "misylola",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "jamsb905",
@@ -39469,7 +39469,7 @@
   },
   {
     username: "brice4206",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "metzee",
@@ -39477,11 +39477,11 @@
   },
   {
     username: "bangsattcrypto",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "beff4",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "DilH",
@@ -39497,7 +39497,7 @@
   },
   {
     username: "emmykona",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "justfaisalsayed",
@@ -39517,7 +39517,7 @@
   },
   {
     username: "Mahinujjaman",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Omalicha_ij",
@@ -39529,7 +39529,7 @@
   },
   {
     username: "ilikeby",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "live2own",
@@ -39537,7 +39537,7 @@
   },
   {
     username: "fxnac89",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Magikarp.jump",
@@ -39565,7 +39565,7 @@
   },
   {
     username: "leonbeosu",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "CryptoKamesh",
@@ -39589,7 +39589,7 @@
   },
   {
     username: "cryptovai",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Rock085",
@@ -39597,23 +39597,23 @@
   },
   {
     username: "taida",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "ravan01",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "nglptr",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "unimax",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "x_aisah",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "weyland",
@@ -39621,11 +39621,11 @@
   },
   {
     username: "limonhassan",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Chigozie123",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "dalton162",
@@ -39637,7 +39637,7 @@
   },
   {
     username: "MysticmawarMerah",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "salimkonceptz",
@@ -39673,11 +39673,11 @@
   },
   {
     username: "BIGDADI",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "SobaMask3101",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "ostapkooo",
@@ -39685,11 +39685,11 @@
   },
   {
     username: "unknowns",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "ebex",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "rupom360",
@@ -39705,15 +39705,15 @@
   },
   {
     username: "camel_whtflg",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "newplayer",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "163coin.eth",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "manLikeStan",
@@ -39721,7 +39721,7 @@
   },
   {
     username: "Dineshjangra880",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "AceGodsLuv",
@@ -39737,19 +39737,19 @@
   },
   {
     username: "widi23",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "biobigogo",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "igpratomo",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Vajdas",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Trea_sure",
@@ -39757,11 +39757,11 @@
   },
   {
     username: "Kobbyheart",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Radoranking",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "ajaymaharshi",
@@ -39769,7 +39769,7 @@
   },
   {
     username: "mendrajane",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "4rdni",
@@ -39777,51 +39777,51 @@
   },
   {
     username: "aldzianf",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "vynx",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "axelchubby",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "vutran69",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "firaun_7",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "chandraadep",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Abjad11",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "leadway",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "karsu",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Vanaheims",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "fuad2643",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Saurabh7764",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "ultraz70",
@@ -39829,63 +39829,63 @@
   },
   {
     username: "cryptosachin",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Kires",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "yamato_damar",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "mrcl98",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "doudou",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Mischierla",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "vendeta",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "herbcase",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "alif22",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "tkyikhant",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "fuzail007",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "degenpexi",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Airdopgod",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Shishir112",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "mdjiku77",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "zell1an",
@@ -39893,11 +39893,11 @@
   },
   {
     username: "lgs2ks",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "skyfor",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Richardyan",
@@ -39909,23 +39909,23 @@
   },
   {
     username: "hotmanparisxyz",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "ethonimus",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Ashlakh",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "earntap",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "RherSama",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "NaveenDonthi",
@@ -39933,19 +39933,19 @@
   },
   {
     username: "hvt96",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "akshaycool",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Cattalena",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "DevOT",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "marvisg",
@@ -39961,31 +39961,31 @@
   },
   {
     username: "michiro",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Hridoy52",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "clonespy",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Motolani02",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "airdrop1281",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Rizrek",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Hridoyjoy",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "safdar2529550",
@@ -39993,51 +39993,51 @@
   },
   {
     username: "AdzanRD",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Soyeb",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "skychny",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Ramos4",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Moin3500",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "James007k",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Szymonx011",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "dorakuu",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "billigator",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "yogi404",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "cryptology0",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "dimsbgs",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "missblessed",
@@ -40045,15 +40045,15 @@
   },
   {
     username: "jokoleno",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "shaane22",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "doudoukick",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "kingcrypto348",
@@ -40061,19 +40061,19 @@
   },
   {
     username: "Roht22",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "ankion",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "abib14",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "sajibbiswas",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Saadullah",
@@ -40089,15 +40089,15 @@
   },
   {
     username: "Zhuzhuxia",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "wggear",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "marcodori",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Beydsgn",
@@ -40105,27 +40105,27 @@
   },
   {
     username: "jefferdex",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Wieowie",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "nayeem103",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "grupon",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "hnam2402",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Jassid",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Kemight22",
@@ -40133,19 +40133,19 @@
   },
   {
     username: "regcity",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "kinda001",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "ASPO",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "roxgaming",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Reyichi",
@@ -40153,31 +40153,31 @@
   },
   {
     username: "Wow_Wew",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Mansoor786",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Venus62",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "solty",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "shod",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "sanjayparmar400",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "beautigirl",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "hipitutu",
@@ -40185,15 +40185,15 @@
   },
   {
     username: "fishseller",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "ariful34",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "nomanbd",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "MISKO",
@@ -40201,11 +40201,11 @@
   },
   {
     username: "TameemS",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Grimmjow",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "vivek98",
@@ -40213,15 +40213,15 @@
   },
   {
     username: "FooZee",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "RorryWilliam",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "justup",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "sokyareach",
@@ -40229,31 +40229,31 @@
   },
   {
     username: "ZEEKO",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "broska",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "accme",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "maxall",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "sirajulislam005",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Jacksahil",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "didarshikder",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "paspuletiassets",
@@ -40261,11 +40261,11 @@
   },
   {
     username: "aendray",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "AriaNaraghi",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "DrKripto2",
@@ -40273,11 +40273,11 @@
   },
   {
     username: "Power202",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "kilit09",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "fireblaster",
@@ -40285,11 +40285,11 @@
   },
   {
     username: "bdhackers009",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "rakibmollik345",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "shreemm",
@@ -40297,15 +40297,15 @@
   },
   {
     username: "shohag97",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "zuobai",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "saqi07",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "phoenix31",
@@ -40321,15 +40321,15 @@
   },
   {
     username: "bondanjava",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Shahan54444",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Emychrizy",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "chilasi",
@@ -40337,11 +40337,11 @@
   },
   {
     username: "Rupesh37",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "mustafizur129",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "jysontheground",
@@ -40349,11 +40349,11 @@
   },
   {
     username: "sawo",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Ramepro",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "armanbro",
@@ -40365,23 +40365,23 @@
   },
   {
     username: "leohei",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "sirmukhtar",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "kinglayeye",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Heruandriansah",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Adx",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Affan0x",
@@ -40393,27 +40393,27 @@
   },
   {
     username: "sunny1122",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "tanvirantor45",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "ethg",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "djamel",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "ginnyo",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "kibriea",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "keshuu3838",
@@ -40425,19 +40425,19 @@
   },
   {
     username: "keinvuu",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "lucas.zhao",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "TamaRiKO",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "pankaj466",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Abworld",
@@ -40449,7 +40449,7 @@
   },
   {
     username: "gusjenggot",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "SCUM_H",
@@ -40457,7 +40457,7 @@
   },
   {
     username: "rafat7",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "shafeeqali",
@@ -40465,19 +40465,19 @@
   },
   {
     username: "YanTsi",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Abhi_sol",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Tatsiana",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "khoa11",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "nka",
@@ -40485,15 +40485,15 @@
   },
   {
     username: "aalmamun34",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "gratefulhrt",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "dmaker",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Ryunina",
@@ -40501,7 +40501,7 @@
   },
   {
     username: "abireh",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "budiong054",
@@ -40509,11 +40509,11 @@
   },
   {
     username: "liuxiaoliu",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "ailing",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "asadjamz",
@@ -40529,11 +40529,11 @@
   },
   {
     username: "zuna_405",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "jicjx",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "husaynocean",
@@ -40545,11 +40545,11 @@
   },
   {
     username: "0x_Ahmed",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "axenoz",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Nura6121",
@@ -40557,15 +40557,15 @@
   },
   {
     username: "winpp",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "zhebhe",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "jessieyuan",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Sampark4all",
@@ -40573,19 +40573,19 @@
   },
   {
     username: "IronGrizzly",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "aseyman",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "oscarjosh",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "saeedkhank",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "favye",
@@ -40617,7 +40617,7 @@
   },
   {
     username: "Dinamon",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "remidot",
@@ -40625,15 +40625,15 @@
   },
   {
     username: "MMai31439276",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "songo",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "yusha80",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "stomiaji",
@@ -40641,23 +40641,23 @@
   },
   {
     username: "JahidFaysal",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "adamz",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "omdj69",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "art.manny",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "JulioMCruz",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Ceo_mil",
@@ -40665,7 +40665,7 @@
   },
   {
     username: "Delijan",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "dangidk051",
@@ -40677,19 +40677,19 @@
   },
   {
     username: "fanshanyueling",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "arun7337",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Ox5eE565f8a0ef64055fe951b1bA9A5",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "osiris007",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "dangerbest",
@@ -40701,7 +40701,7 @@
   },
   {
     username: "Chester77",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "anonymous9",
@@ -40729,27 +40729,27 @@
   },
   {
     username: "h5444",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "choudhrysahab",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "balatianak",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "jack85",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Palash0962",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "ShantaMiah64",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "binitabh",
@@ -40761,7 +40761,7 @@
   },
   {
     username: "ramimmon02",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "VTGVISHAL",
@@ -40773,11 +40773,11 @@
   },
   {
     username: "jusefelmokdad",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "xJaguarJack",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Eegwe",
@@ -40809,11 +40809,11 @@
   },
   {
     username: "umenk",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "mudassir434",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "H2so4",
@@ -40825,7 +40825,7 @@
   },
   {
     username: "Barzz",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Ceelleex",
@@ -40837,7 +40837,7 @@
   },
   {
     username: "codotz18",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "kinako__mo_chi",
@@ -40845,11 +40845,11 @@
   },
   {
     username: "konokraju4321",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "ddeepakk432",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "KPJMD",
@@ -40865,11 +40865,11 @@
   },
   {
     username: "Nguyenhuyen",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Ashishvashisht",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Mickeychina147",
@@ -40877,11 +40877,11 @@
   },
   {
     username: "tuyenmtk",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "khademianhamid",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "zhaimy",
@@ -40897,15 +40897,15 @@
   },
   {
     username: "sam1987820",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "heywei",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "sam19878202",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Chris516",
@@ -40917,15 +40917,15 @@
   },
   {
     username: "Hasib7705",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "norim",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "gautamgk",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "turboshoz",
@@ -40933,11 +40933,11 @@
   },
   {
     username: "AnggayuhP",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "giftlove",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Genius__",
@@ -40949,11 +40949,11 @@
   },
   {
     username: "N0",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "waqib7",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "ankitdangi",
@@ -40965,23 +40965,23 @@
   },
   {
     username: "gofar2024",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "roninn49",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "aprame",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Rebelstarpk",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "dnvrz",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "reechy",
@@ -40993,7 +40993,7 @@
   },
   {
     username: "SivasiaN",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "cokebujiabing",
@@ -41009,7 +41009,7 @@
   },
   {
     username: "shegy",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "dannyalbert",
@@ -41025,7 +41025,7 @@
   },
   {
     username: "sharjeel8",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Abduulahad",
@@ -41033,7 +41033,7 @@
   },
   {
     username: "dontol",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "idiotupgrade",
@@ -41041,11 +41041,11 @@
   },
   {
     username: "ianhomew",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "NoStop",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "jaderx",
@@ -41057,7 +41057,7 @@
   },
   {
     username: "rashu320",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "ellisliu",
@@ -41073,11 +41073,11 @@
   },
   {
     username: "zey23",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "ubisoft1",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Eternal261",
@@ -41085,11 +41085,11 @@
   },
   {
     username: "ariefansclub",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "mahadi3c",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "ajackjaarnette969",
@@ -41117,7 +41117,7 @@
   },
   {
     username: "web.eth",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "devmamta",
@@ -41129,7 +41129,7 @@
   },
   {
     username: "Ceferov87",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "redstorm",
@@ -41137,7 +41137,7 @@
   },
   {
     username: "kaifking",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Ahmad0X",
@@ -41145,7 +41145,7 @@
   },
   {
     username: "manjeetsaini",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Ayo01",
@@ -41153,15 +41153,15 @@
   },
   {
     username: "qilong65",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "deadmanschest",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "samhadie",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "lovekaushik52",
@@ -41173,11 +41173,11 @@
   },
   {
     username: "Chiito555",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Samareshbepary",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "naniii",
@@ -41189,15 +41189,15 @@
   },
   {
     username: "theinngwe",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Jahin0",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "mrnobody1999",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "asitkp",
@@ -41213,19 +41213,19 @@
   },
   {
     username: "Keleven",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Stavath88",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "EXODUS",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "kano123",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "zoup",
@@ -41233,7 +41233,7 @@
   },
   {
     username: "arzoo",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "0xphoenix_",
@@ -41241,11 +41241,11 @@
   },
   {
     username: "sam19878205",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "ayush1011",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Faratola",
@@ -41253,19 +41253,19 @@
   },
   {
     username: "sam19878204",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "supi2110",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "xiaogu111111",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "shorna",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "vip15",
@@ -41273,7 +41273,7 @@
   },
   {
     username: "yamato2023",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "BIKIROY",
@@ -41285,7 +41285,7 @@
   },
   {
     username: "Modze",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "joi",
@@ -41293,15 +41293,15 @@
   },
   {
     username: "Bnc666",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "tanbin1",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Petson",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "imtarun",
@@ -41337,7 +41337,7 @@
   },
   {
     username: "saju308",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "tioo",
@@ -41377,11 +41377,11 @@
   },
   {
     username: "pikachill",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "dagghunboss",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Okiki15",
@@ -41425,11 +41425,11 @@
   },
   {
     username: "msdegtyarev",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Narayanks323",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "princess1",
@@ -41445,11 +41445,11 @@
   },
   {
     username: "alfzy",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Crytolove",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "AlishaBatol",
@@ -41457,7 +41457,7 @@
   },
   {
     username: "Acha04",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "dpeerezz_",
@@ -41465,7 +41465,7 @@
   },
   {
     username: "Alan4",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "NasirBhutta",
@@ -41477,11 +41477,11 @@
   },
   {
     username: "recccep",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "blackhunter20",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "pulkit",
@@ -41493,7 +41493,7 @@
   },
   {
     username: "maxcoder",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "neela01",
@@ -41513,7 +41513,7 @@
   },
   {
     username: "Tasos_Adelino",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "smamit313",
@@ -41521,7 +41521,7 @@
   },
   {
     username: "naymg",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "anku01",
@@ -41533,15 +41533,15 @@
   },
   {
     username: "subzero1",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "dilipkumarbd",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Auxie",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "dexxj",
@@ -41557,31 +41557,31 @@
   },
   {
     username: "jkmathurjk",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "putin",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Nancyw",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Axial",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Rubel2171",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "paixtisbad",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "BillyBlock",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "TheVanta",
@@ -41589,7 +41589,7 @@
   },
   {
     username: "am92",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Arginine",
@@ -41601,7 +41601,7 @@
   },
   {
     username: "dimka19951",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "JK5700",
@@ -41609,7 +41609,7 @@
   },
   {
     username: "psikologg",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "somapti",
@@ -41653,7 +41653,7 @@
   },
   {
     username: "nilakash",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "vanish",
@@ -41665,11 +41665,11 @@
   },
   {
     username: "ridoy741234",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "nftmatrix",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Lucifer9",
@@ -41689,15 +41689,15 @@
   },
   {
     username: "Mstitelb",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "WyvernCrypto",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "bitroy",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Rohith08",
@@ -41709,15 +41709,15 @@
   },
   {
     username: "akash78772",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "PriyojitND",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "hs1414",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Argentum",
@@ -41729,7 +41729,7 @@
   },
   {
     username: "Mhizfanny",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "s.a.shuvo",
@@ -41745,7 +41745,7 @@
   },
   {
     username: "KMJShah283012",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "AirDrop24hr",
@@ -41757,15 +41757,15 @@
   },
   {
     username: "xyxy",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "dinota",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "foniara",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "TiTAN899",
@@ -41773,7 +41773,7 @@
   },
   {
     username: "amolk5",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "tristar",
@@ -41781,19 +41781,19 @@
   },
   {
     username: "OBengMInus",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "lakmay",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "nathalye",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "chahalamit",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "sharjeel5780",
@@ -41821,7 +41821,7 @@
   },
   {
     username: "shaista2580",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "abt",
@@ -41833,15 +41833,15 @@
   },
   {
     username: "topicas",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Kaiotran",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Yogesh2524",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "mikethoue",
@@ -41849,15 +41849,15 @@
   },
   {
     username: "GMNina",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "qiyunv",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "gbox247",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "CG11221",
@@ -41865,35 +41865,35 @@
   },
   {
     username: "nomanbaloch",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "doktormadd",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Ardan01",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "khanmehru121",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "AbSamad",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "elok0612",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "FORSAKEN",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "CryptoBrazzers",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "UranianZoro",
@@ -41901,7 +41901,7 @@
   },
   {
     username: "ethram",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "SirDave01",
@@ -41913,11 +41913,11 @@
   },
   {
     username: "nourkoky",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Kokohtet",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "rogerfederer",
@@ -41925,7 +41925,7 @@
   },
   {
     username: "mdsaikat09",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "limchen115",
@@ -41937,11 +41937,11 @@
   },
   {
     username: "mrmag",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "davidf",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "ktybr",
@@ -41965,11 +41965,11 @@
   },
   {
     username: "ahmadbyaro",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "RockyVa47",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "jekt",
@@ -41981,11 +41981,11 @@
   },
   {
     username: "asecrypto",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Papu70",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "violinplayer",
@@ -41993,11 +41993,11 @@
   },
   {
     username: "badgateway",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "avestruz",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "zkbit",
@@ -42005,11 +42005,11 @@
   },
   {
     username: "S4SPIDEY",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "mubeensyed60",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "bobzy1",
@@ -42017,7 +42017,7 @@
   },
   {
     username: "radiants",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "boldy",
@@ -42049,7 +42049,7 @@
   },
   {
     username: "hypeg",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "epicvoyager",
@@ -42069,7 +42069,7 @@
   },
   {
     username: "abujafar1",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Dorismarcus",
@@ -42081,19 +42081,19 @@
   },
   {
     username: "mengkubull",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Potato69",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "unshtd",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Rohman1sm",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Folashade5050",
@@ -42101,11 +42101,11 @@
   },
   {
     username: "Diamondking",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "imdipta",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "CryptoSage3",
@@ -42113,11 +42113,11 @@
   },
   {
     username: "sauqi",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Dasu74",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "muneerhussain",
@@ -42125,11 +42125,11 @@
   },
   {
     username: "Sponty",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "littlesd",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "ansar0",
@@ -42137,11 +42137,11 @@
   },
   {
     username: "otrumb",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "blow",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "raza_acc",
@@ -42149,31 +42149,31 @@
   },
   {
     username: "cuongtuanvu",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "sleepless81",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "jinjie",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "farken",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "nakama",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Melophile279",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Nioxa",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "FazalRahmanTasal",
@@ -42185,15 +42185,15 @@
   },
   {
     username: "raqibctg",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "dudewith",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Raheemzy",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "hoangdang3214",
@@ -42205,7 +42205,7 @@
   },
   {
     username: "startim",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "wangnfts",
@@ -42225,7 +42225,7 @@
   },
   {
     username: "CherlynKi",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "shahwar",
@@ -42249,7 +42249,7 @@
   },
   {
     username: "esubalew",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "AgapeT",
@@ -42269,11 +42269,11 @@
   },
   {
     username: "shahidul69",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "vladz027",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Sickboyx",
@@ -42289,19 +42289,19 @@
   },
   {
     username: "web3ninja",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Cryptonica",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "sazzad07",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "hokidoki",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "silent001k",
@@ -42317,7 +42317,7 @@
   },
   {
     username: "Canonweb3",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Doushi",
@@ -42353,15 +42353,15 @@
   },
   {
     username: "Lexzy4show",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "AndersO",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Fisayo006",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "holalt",
@@ -42369,11 +42369,11 @@
   },
   {
     username: "crisvn",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "vasu0927",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "nirmalendu.sinha",
@@ -42385,7 +42385,7 @@
   },
   {
     username: "poteshniy",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Asadul7182",
@@ -42397,11 +42397,11 @@
   },
   {
     username: "ummhnf",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "verdaguer",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "yazeenyaz",
@@ -42409,7 +42409,7 @@
   },
   {
     username: "shain505",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "hansaki2020",
@@ -42417,11 +42417,11 @@
   },
   {
     username: "tending",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Erxcjr",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "arslanbhutta",
@@ -42429,7 +42429,7 @@
   },
   {
     username: "Sasikumarn",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "8008",
@@ -42449,7 +42449,7 @@
   },
   {
     username: "0xdanz",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "0xysa",
@@ -42477,11 +42477,11 @@
   },
   {
     username: "midexiac",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "bik0545",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Mr_Dark",
@@ -42505,7 +42505,7 @@
   },
   {
     username: "a583496265",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Sunwukong520",
@@ -42521,7 +42521,7 @@
   },
   {
     username: "jakjohnny",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "amarjot0007",
@@ -42533,7 +42533,7 @@
   },
   {
     username: "Stagni",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "erdogan_alper",
@@ -42549,23 +42549,23 @@
   },
   {
     username: "kostos333",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "demakisto",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "rileybeans",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "SrikandaS",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "kiimaulan",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "dani786001",
@@ -42597,7 +42597,7 @@
   },
   {
     username: "hxr",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "dfggzsl",
@@ -42641,7 +42641,7 @@
   },
   {
     username: "AdamzLamar",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Raselshake",
@@ -42653,23 +42653,23 @@
   },
   {
     username: "MelvishNiz",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "zkhugger",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "unknownxox",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "jussel",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "vinrasta",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "adoetify",
@@ -42677,7 +42677,7 @@
   },
   {
     username: "khmertechtime",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "mileniaglory",
@@ -42685,7 +42685,7 @@
   },
   {
     username: "airdropfarmer19",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "blackchain43",
@@ -42693,23 +42693,23 @@
   },
   {
     username: "ade12dwi21",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "wam4254",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "richieok",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "bscscan",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "ris3pana",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "sharktank96",
@@ -42717,11 +42717,11 @@
   },
   {
     username: "xholligans",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "CryptoCurrencyFuture",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Nasibul",
@@ -42757,19 +42757,19 @@
   },
   {
     username: "emeldo",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "LuckeyMe",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "rosidin01",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Fear82",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "cryptolover",
@@ -42777,15 +42777,15 @@
   },
   {
     username: "udaybhai",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "bgssrtz",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Shinya24",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "DoanThanhHa",
@@ -42805,15 +42805,15 @@
   },
   {
     username: "georgechaos",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Easen",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "amrustanly",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "ao4768",
@@ -42829,15 +42829,15 @@
   },
   {
     username: "vacqal",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Dh48",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "onuryildiz",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "alhackid",
@@ -42865,7 +42865,7 @@
   },
   {
     username: "DrTradeM",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "0xYoMo",
@@ -42889,7 +42889,7 @@
   },
   {
     username: "Akechi",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "irfanashah",
@@ -42929,7 +42929,7 @@
   },
   {
     username: "0xkrizal",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "edguspra",
@@ -42941,11 +42941,11 @@
   },
   {
     username: "jaydenn.rx",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "iamshn",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "limochen",
@@ -42961,15 +42961,15 @@
   },
   {
     username: "bli",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "pentil",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Amybaby",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "liengdang",
@@ -42993,15 +42993,15 @@
   },
   {
     username: "gents22",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "hines",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "s3rhat",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Forhad05",
@@ -43017,7 +43017,7 @@
   },
   {
     username: "delay666",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "alluska67",
@@ -43033,7 +43033,7 @@
   },
   {
     username: "JayBeeDeen",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "thetruegreatone",
@@ -43049,7 +43049,7 @@
   },
   {
     username: "killzero",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "TheMostJOMO",
@@ -43081,7 +43081,7 @@
   },
   {
     username: "Kaiba",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Prmsdnl",
@@ -43089,7 +43089,7 @@
   },
   {
     username: "reksa",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "GOD-CARES",
@@ -43101,15 +43101,15 @@
   },
   {
     username: "bitcoiner4590",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "nonsensealpha",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Cryptotek",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Kustinski",
@@ -43137,11 +43137,11 @@
   },
   {
     username: "scamsung",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "oncodewa1",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Jimjam1",
@@ -43161,7 +43161,7 @@
   },
   {
     username: "mansky",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "kzkzxyz",
@@ -43169,7 +43169,7 @@
   },
   {
     username: "vitajelly19",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "xsnmeth",
@@ -43177,7 +43177,7 @@
   },
   {
     username: "evakalasva",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "bsvbox",
@@ -43205,7 +43205,7 @@
   },
   {
     username: "dodlepuppi",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Masood08",
@@ -43221,7 +43221,7 @@
   },
   {
     username: "Vagapos",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "anil7707",
@@ -43233,7 +43233,7 @@
   },
   {
     username: "enkthetank",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "shanky64",
@@ -43241,19 +43241,19 @@
   },
   {
     username: "enzoer",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "sh926808",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "manthan7",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "shubhr2410",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "arghani",
@@ -43261,7 +43261,7 @@
   },
   {
     username: "varekcrow",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Casly_ambrose",
@@ -43273,15 +43273,15 @@
   },
   {
     username: "fuaf",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "noonnanaa_",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "franss_",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "ganeshsing101",
@@ -43317,15 +43317,15 @@
   },
   {
     username: "roche",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "LegionFist",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "wanss",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "moonswap",
@@ -43345,11 +43345,11 @@
   },
   {
     username: "dede",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "fortune888",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "jawan_op7",
@@ -43357,7 +43357,7 @@
   },
   {
     username: "tedzz",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "navish",
@@ -43373,11 +43373,11 @@
   },
   {
     username: "jeruyo",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "jaya4er",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "munna2004",
@@ -43385,7 +43385,7 @@
   },
   {
     username: "Gamunkul",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Gbajumo",
@@ -43405,11 +43405,11 @@
   },
   {
     username: "zuracik",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "apex.m021",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Ebubedike1995",
@@ -43417,7 +43417,7 @@
   },
   {
     username: "smshere",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "arat",
@@ -43429,7 +43429,7 @@
   },
   {
     username: "Melllow",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "vuqar85",
@@ -43437,15 +43437,15 @@
   },
   {
     username: "lepiharyanto",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Masjho17",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Rirapod",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Respected-Crypto-Brands",
@@ -43457,27 +43457,27 @@
   },
   {
     username: "duongmb24",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Indyana",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Stager1988",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "byfone",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Scardo16",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "keerti1",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "JOSH99",
@@ -43497,11 +43497,11 @@
   },
   {
     username: "DQK",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "mbahkipli02",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Yu19980312..",
@@ -43509,11 +43509,11 @@
   },
   {
     username: "cortisol",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "vd562a",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "mmgteekay",
@@ -43533,7 +43533,7 @@
   },
   {
     username: "dinamic_di",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "luckky",
@@ -43545,7 +43545,7 @@
   },
   {
     username: "Wikki",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "sufyanwar",
@@ -43557,7 +43557,7 @@
   },
   {
     username: "sumng",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "muttetaryn90531",
@@ -43565,7 +43565,7 @@
   },
   {
     username: "8x",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Rosfab",
@@ -43573,7 +43573,7 @@
   },
   {
     username: "Tatalala",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Teeeee",
@@ -43589,19 +43589,19 @@
   },
   {
     username: "basinbashin",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "mehradt92",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "ehsan2105",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "jacque",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Crypticbd",
@@ -43609,11 +43609,11 @@
   },
   {
     username: "topnft",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "fujiweb3",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "nakoruru",
@@ -43625,7 +43625,7 @@
   },
   {
     username: "Victory25",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Pace",
@@ -43633,7 +43633,7 @@
   },
   {
     username: "moon13",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "bahaahamza",
@@ -43657,11 +43657,11 @@
   },
   {
     username: "chinedum",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "0xTaaa",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Fedex2010",
@@ -43669,7 +43669,7 @@
   },
   {
     username: "dodopizza",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "satish7",
@@ -43681,15 +43681,15 @@
   },
   {
     username: "freetree_art",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "laroo",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "jackyou",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "teeblaze",
@@ -43705,7 +43705,7 @@
   },
   {
     username: "Evgen73",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Metchi",
@@ -43713,11 +43713,11 @@
   },
   {
     username: "thomrat90",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "BillyJoe",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "sayawawi",
@@ -43729,7 +43729,7 @@
   },
   {
     username: "B-Art",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "behuman",
@@ -43773,7 +43773,7 @@
   },
   {
     username: "vladislovedd",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "joot18",
@@ -43805,15 +43805,15 @@
   },
   {
     username: "hunny274",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Cryptokmol",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Ramitphi",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Mz_Iveey",
@@ -43821,7 +43821,7 @@
   },
   {
     username: "Kepo",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "angelinn",
@@ -43829,7 +43829,7 @@
   },
   {
     username: "xenbtc",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Hotspot",
@@ -43841,7 +43841,7 @@
   },
   {
     username: "ichoco",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Schiz04",
@@ -43849,11 +43849,11 @@
   },
   {
     username: "g0rila",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Sundae1",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "skyncrypto",
@@ -43865,7 +43865,7 @@
   },
   {
     username: "dikrul",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "junchiou",
@@ -43881,11 +43881,11 @@
   },
   {
     username: "dikaje",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Kasep72",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "cincing",
@@ -43893,7 +43893,7 @@
   },
   {
     username: "Haruto406",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "mianimran",
@@ -43901,7 +43901,7 @@
   },
   {
     username: "Caiow",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Ahmedkhan",
@@ -43921,11 +43921,11 @@
   },
   {
     username: "cococola",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "freezerverse",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "p4pain",
@@ -43933,19 +43933,19 @@
   },
   {
     username: "aldocedok",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "cryptopion",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "mozhe",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Cavallote_",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "ramzan01",
@@ -43953,11 +43953,11 @@
   },
   {
     username: "munisz",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "darel",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "fooooofo",
@@ -43965,7 +43965,7 @@
   },
   {
     username: "leksisis",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "VarbansTech",
@@ -44041,7 +44041,7 @@
   },
   {
     username: "skumar25",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "maxo",
@@ -44057,11 +44057,11 @@
   },
   {
     username: "marion3611",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "bismillahsugih",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "CryptoConnectStation",
@@ -44077,15 +44077,15 @@
   },
   {
     username: "xiaomaomi",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Momincrypto",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "moumohsen82",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "imran4h",
@@ -44093,7 +44093,7 @@
   },
   {
     username: "Celez",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "omurekt",
@@ -44105,23 +44105,23 @@
   },
   {
     username: "mubeen3243",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "sirohige",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "poppincrypto",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Powershoot",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "NataliM",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Exgoism",
@@ -44129,11 +44129,11 @@
   },
   {
     username: "crazygamer16",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "notoki",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "justin01",
@@ -44141,11 +44141,11 @@
   },
   {
     username: "thao4867",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Son_haji",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Jimo",
@@ -44153,19 +44153,19 @@
   },
   {
     username: "musly",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "xkaz",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "crypotec",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Fhnhadi",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "commenster",
@@ -44205,7 +44205,7 @@
   },
   {
     username: "kashif456",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Batki",
@@ -44233,7 +44233,7 @@
   },
   {
     username: "KseniyaKruch",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "ak7070225",
@@ -44241,7 +44241,7 @@
   },
   {
     username: "BlumNetwork",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Parvage",
@@ -44257,23 +44257,23 @@
   },
   {
     username: "Astro_ishi",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "gemscats",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "K.RAJASEKHAR",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "martyn25",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "victorsilab",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Mathye",
@@ -44285,11 +44285,11 @@
   },
   {
     username: "Deleted",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "max24",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "adnan7",
@@ -44305,7 +44305,7 @@
   },
   {
     username: "Fikce",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "alnumani",
@@ -44317,19 +44317,19 @@
   },
   {
     username: "skycry5",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "vshlmshr",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "cav4lier",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "fenda",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "tatodg",
@@ -44337,7 +44337,7 @@
   },
   {
     username: "Trailblazer654",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "A1exander",
@@ -44345,7 +44345,7 @@
   },
   {
     username: "jekse",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "JuiciiTrades",
@@ -44353,7 +44353,7 @@
   },
   {
     username: "wahyulah001",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "scarface_x5",
@@ -44361,11 +44361,11 @@
   },
   {
     username: "jeffyyy",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "doggit",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "piwy",
@@ -44385,7 +44385,7 @@
   },
   {
     username: "erusrusendi",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "pisgorex",
@@ -44393,11 +44393,11 @@
   },
   {
     username: "jayasync",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "izundoang",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "milon346",
@@ -44497,7 +44497,7 @@
   },
   {
     username: "raptornews",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Raselheart",
@@ -44521,7 +44521,7 @@
   },
   {
     username: "haamit",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "mickeyunscripted",
@@ -44545,7 +44545,7 @@
   },
   {
     username: "Refly18",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "mamanakal",
@@ -44577,7 +44577,7 @@
   },
   {
     username: "yangbyone",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "chlorine",
@@ -44641,11 +44641,11 @@
   },
   {
     username: "bumbumb",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "skujo",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "maicodon",
@@ -44689,7 +44689,7 @@
   },
   {
     username: "cuanbang",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "KONTOLswap",
@@ -44697,7 +44697,7 @@
   },
   {
     username: "cryptovolta",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "rupok7",
@@ -44773,7 +44773,7 @@
   },
   {
     username: "mhanafi",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "lypv95",
@@ -44805,11 +44805,11 @@
   },
   {
     username: "pstone01",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "wikan",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "markus77734",
@@ -44837,7 +44837,7 @@
   },
   {
     username: "chenhui8819",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "leeun",
@@ -44861,7 +44861,7 @@
   },
   {
     username: "mochaz",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "suresh0143",
@@ -44873,7 +44873,7 @@
   },
   {
     username: "brandit",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Bigmay",
@@ -44889,7 +44889,7 @@
   },
   {
     username: "rawrh",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "macoross",
@@ -44897,7 +44897,7 @@
   },
   {
     username: "twin633",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "sanjukn",
@@ -44917,7 +44917,7 @@
   },
   {
     username: "Shubham7887",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "tantienle17",
@@ -44925,7 +44925,7 @@
   },
   {
     username: "Anteros",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "BlckMyth",
@@ -44937,7 +44937,7 @@
   },
   {
     username: "rohit799",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "ttone",
@@ -44997,11 +44997,11 @@
   },
   {
     username: "efje",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "sabbirupk",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Ck22bhalla",
@@ -45009,7 +45009,7 @@
   },
   {
     username: "hurry0y",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "momen78",
@@ -45045,7 +45045,7 @@
   },
   {
     username: "ashbringer",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Dexter344",
@@ -45065,11 +45065,11 @@
   },
   {
     username: "Mkjack",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "rohit239",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Kwakubako",
@@ -45085,11 +45085,11 @@
   },
   {
     username: "eagle10",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Deleted",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "camoiz",
@@ -45129,7 +45129,7 @@
   },
   {
     username: "logabbagol",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "vkm24042005",
@@ -45145,7 +45145,7 @@
   },
   {
     username: "ughojor2007",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "dejmien",
@@ -45185,7 +45185,7 @@
   },
   {
     username: "Galkurta",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Dfaith",
@@ -45193,7 +45193,7 @@
   },
   {
     username: "MEEKLICH",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "phavernumberonefan",
@@ -45213,7 +45213,7 @@
   },
   {
     username: "rifqi",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "deshwal1",
@@ -45241,7 +45241,7 @@
   },
   {
     username: "bb0816",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "bhupathiGBV",
@@ -45285,7 +45285,7 @@
   },
   {
     username: "oxa",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "crius",
@@ -45301,7 +45301,7 @@
   },
   {
     username: "mancingcrypto",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "gadams",
@@ -45313,7 +45313,7 @@
   },
   {
     username: "Terouziiiii",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "masudxtan",
@@ -45329,7 +45329,7 @@
   },
   {
     username: "rmdsmile",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "taiphung143",
@@ -45349,7 +45349,7 @@
   },
   {
     username: "Yomite",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "suburbass88",
@@ -45357,7 +45357,7 @@
   },
   {
     username: "Crypto_capz",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "rdntdn1",
@@ -45377,7 +45377,7 @@
   },
   {
     username: "azores",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "durelyemdji",
@@ -45497,7 +45497,7 @@
   },
   {
     username: "Cat_sausage",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "orbisoptimum",
@@ -45505,7 +45505,7 @@
   },
   {
     username: "mukimuki",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "sameerasanjith",
@@ -45601,7 +45601,7 @@
   },
   {
     username: "anggapbaskoro",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Aklason",
@@ -45621,7 +45621,7 @@
   },
   {
     username: "chenslk",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "dadadanield",
@@ -45649,7 +45649,7 @@
   },
   {
     username: "harrypotterobamasonic10inu",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "rychrrd",
@@ -45657,7 +45657,7 @@
   },
   {
     username: "dekos228",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "duong078",
@@ -45705,7 +45705,7 @@
   },
   {
     username: "myke007",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "dollypy",
@@ -45717,11 +45717,11 @@
   },
   {
     username: "Amaxyz",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "crombo",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "why_so_serious",
@@ -45729,23 +45729,23 @@
   },
   {
     username: "jahangir800",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "gmanwarul",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "skinnynoizze",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Ramil_Must",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "dondaniel",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "edalaf_",
@@ -45753,11 +45753,11 @@
   },
   {
     username: "Engrval",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Erel",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Cohlson",
@@ -45765,23 +45765,23 @@
   },
   {
     username: "aminusik",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "rajibchy",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "SMashLigHT",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Arif78",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "annabente6",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "reggiehub",
@@ -45789,31 +45789,31 @@
   },
   {
     username: "Toai.Nguyen",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "chandan12350",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "blissmichaels",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Sewer1199",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "jenes",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "selah",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "TorifAdam",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "temmyz",
@@ -45821,11 +45821,11 @@
   },
   {
     username: "masooooody",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Adis46",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Dunss",
@@ -45837,7 +45837,7 @@
   },
   {
     username: "sqvad",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "mubarakade",
@@ -45845,7 +45845,7 @@
   },
   {
     username: "attapsir",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "rupakopm",
@@ -45857,7 +45857,7 @@
   },
   {
     username: "tum4y",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "bibi9.eth",
@@ -45865,19 +45865,19 @@
   },
   {
     username: "forfolis",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "HugoWhere",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Negus",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "kojenwtf",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "JonnyKock.",
@@ -45885,11 +45885,11 @@
   },
   {
     username: "DEAD_ASF",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Lenonmc21",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "johnny00crypto",
@@ -45897,7 +45897,7 @@
   },
   {
     username: "0xsanju",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "OXCKRIS",
@@ -45905,7 +45905,7 @@
   },
   {
     username: "yoniyoni",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Vijaykumarb",
@@ -45921,11 +45921,11 @@
   },
   {
     username: "Vikhuhol",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "syedtufail",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "AjmalShijad",
@@ -45937,7 +45937,7 @@
   },
   {
     username: "bandish",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "xxnx",
@@ -45945,7 +45945,7 @@
   },
   {
     username: "Bunker",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "luanarc",
@@ -45957,11 +45957,11 @@
   },
   {
     username: "as789",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "rabka",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Aise1",
@@ -45969,11 +45969,11 @@
   },
   {
     username: "pablorcr",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "LoDeFi31.eth",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Mykolay",
@@ -45981,7 +45981,7 @@
   },
   {
     username: "lalitsingla",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "rsrakib",
@@ -45989,11 +45989,11 @@
   },
   {
     username: "mmt0912",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Unreall",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Ratry80",
@@ -46005,15 +46005,15 @@
   },
   {
     username: "halitemir",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "edoyuanda",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "AllaBiel",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "web3arena",
@@ -46053,7 +46053,7 @@
   },
   {
     username: "Bbankz_",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Pranjack",
@@ -46065,11 +46065,11 @@
   },
   {
     username: "smjunior",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "nowshad23",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "HDI302",
@@ -46077,11 +46077,11 @@
   },
   {
     username: "profsalvatorres",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "NifeySncy",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "abmohaimin888",
@@ -46117,7 +46117,7 @@
   },
   {
     username: "Bunty1",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "anju1432",
@@ -46125,7 +46125,7 @@
   },
   {
     username: "Takongle",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "fameandfury",
@@ -46133,7 +46133,7 @@
   },
   {
     username: "samir782",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "bgpen012",
@@ -46161,11 +46161,11 @@
   },
   {
     username: "mormo",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "liveairdrop",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "wen6497979",
@@ -46181,7 +46181,7 @@
   },
   {
     username: "antminner",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Emmanuel112",
@@ -46189,7 +46189,7 @@
   },
   {
     username: "naitop",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "saqib_8976",
@@ -46197,7 +46197,7 @@
   },
   {
     username: "svinkasema",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "lilygentle",
@@ -46233,7 +46233,7 @@
   },
   {
     username: "redec",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Hykis",
@@ -46257,11 +46257,11 @@
   },
   {
     username: "charismatico",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "abc223091",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Ranjum693",
@@ -46269,11 +46269,11 @@
   },
   {
     username: "Ajadi112",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "wvfeun",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "ttea",
@@ -46281,7 +46281,7 @@
   },
   {
     username: "Zajotom",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "rajkarmakar",
@@ -46289,7 +46289,7 @@
   },
   {
     username: "dogedollar",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "captmilex",
@@ -46309,27 +46309,27 @@
   },
   {
     username: "easonchen",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "tokitekataki",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "hoteleirocrypto",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "jmackent",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "whouse",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "MrBull",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Sajid820",
@@ -46337,7 +46337,7 @@
   },
   {
     username: "0xDopeman",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "maximecharriere",
@@ -46349,7 +46349,7 @@
   },
   {
     username: "Mosun",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "byukas",
@@ -46365,11 +46365,11 @@
   },
   {
     username: "alilov",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Onyenkuzi",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "biswaop",
@@ -46377,27 +46377,27 @@
   },
   {
     username: "aliyuabbas",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "fatimamuneer",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "ameeramuneer",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "cyclone",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "cjdangambo",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "abrarmuneer",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "cele2valen",
@@ -46405,7 +46405,7 @@
   },
   {
     username: "CrashOverride",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Salkblue",
@@ -46433,7 +46433,7 @@
   },
   {
     username: "Chidex3262",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "trongtran",
@@ -46441,7 +46441,7 @@
   },
   {
     username: "Kenkura",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "bybit936",
@@ -46465,7 +46465,7 @@
   },
   {
     username: "publius",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "maryamtem",
@@ -46501,7 +46501,7 @@
   },
   {
     username: "chxpo",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "anukings",
@@ -46625,7 +46625,7 @@
   },
   {
     username: "chokeizzbpptr3",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "lfh04",
@@ -46657,11 +46657,11 @@
   },
   {
     username: "Tmuhamad7",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "theenlightened",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Parves144",
@@ -46673,7 +46673,7 @@
   },
   {
     username: "youkesh",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "lisfox",
@@ -46913,7 +46913,7 @@
   },
   {
     username: "amirdrop",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "besancia",
@@ -46993,7 +46993,7 @@
   },
   {
     username: "insafKhas",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "amadimadunagum",
@@ -47013,11 +47013,11 @@
   },
   {
     username: "BANKAIVN",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "DODO88",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "jainx",
@@ -47041,11 +47041,11 @@
   },
   {
     username: "watchcoin",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "kia3",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "utkars",
@@ -47081,7 +47081,7 @@
   },
   {
     username: "vinay880",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Dsgnrayo",
@@ -47273,7 +47273,7 @@
   },
   {
     username: "areyouhere",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Kasino",
@@ -47301,7 +47301,7 @@
   },
   {
     username: "newbanker",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "gla",
@@ -47357,7 +47357,7 @@
   },
   {
     username: "thehackesync.eth",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Prajhan",
@@ -47385,7 +47385,7 @@
   },
   {
     username: "LinaNiviah",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "tianze",
@@ -47425,7 +47425,7 @@
   },
   {
     username: "devdes02",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Mickoski",
@@ -47437,7 +47437,7 @@
   },
   {
     username: "nadia0x",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Mayorofweb3",
@@ -47489,7 +47489,7 @@
   },
   {
     username: "yongsky01",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Ethbulls",
@@ -47545,7 +47545,7 @@
   },
   {
     username: "yvonne01",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "zakamer",
@@ -47585,7 +47585,7 @@
   },
   {
     username: "cr2024",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Cyberg666",
@@ -47649,7 +47649,7 @@
   },
   {
     username: "Dimazavr",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Bellozyy",
@@ -47729,11 +47729,11 @@
   },
   {
     username: "sangohan",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "flekyan",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "cryptoboys27",
@@ -47777,7 +47777,7 @@
   },
   {
     username: "vadimkozlov",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "ea1344",
@@ -47805,7 +47805,7 @@
   },
   {
     username: "Derrick",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "ravenai11",
@@ -47961,7 +47961,7 @@
   },
   {
     username: "RDCrypto007",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Xing",
@@ -48285,7 +48285,7 @@
   },
   {
     username: "shm5488",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "LuxyDrop",
@@ -48469,7 +48469,7 @@
   },
   {
     username: "erefen",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "Zitrox",
@@ -48965,7 +48965,7 @@
   },
   {
     username: "cnat",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "abdurahmanrif",
@@ -49085,7 +49085,7 @@
   },
   {
     username: "Archi004",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "tamyteryur",
@@ -49697,7 +49697,7 @@
   },
   {
     username: "itx-mohsy",
-    diamondOrPaper: "diamond hand"
+    diamondOrPaper: "paper hand"
   },
   {
     username: "xiaoA",
@@ -49766,5 +49766,13 @@
   {
     username: "khawar",
     diamondOrPaper: "paper hand"
+  },
+  {
+    username: "syn655",
+    diamondOrPaper: "diamond hand"
+  },
+  {
+    username: "vanshdogra24",
+    diamondOrPaper: "diamond hand"
   }
 ]
