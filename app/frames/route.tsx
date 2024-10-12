@@ -31,9 +31,10 @@ const frames = createFrames({
 
 const handleRequest = frames(async (ctx) => {
   const searchValue = ctx.message?.inputText || "";
-  const voterData = findVoterByUsername(searchValue);
-  const diamondData = findDiamondByUsername(searchValue);
-  const bonusData = findBonusByUsername(searchValue);
+  const lowerCaseSearchValue = searchValue.toLowerCase();
+  const voterData = findVoterByUsername(lowerCaseSearchValue);
+  const diamondData = findDiamondByUsername(lowerCaseSearchValue);
+  const bonusData = findBonusByUsername(lowerCaseSearchValue);
 
   
 
