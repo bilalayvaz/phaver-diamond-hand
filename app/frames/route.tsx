@@ -117,25 +117,27 @@ const handleRequest = frames(async (ctx) => {
       fontFamily: "Helvetica, Arial, sans-serif", 
       padding: "10px 20px", 
       textAlign: "center", 
-      backgroundColor: diamondData?.diamondOrPaper === "diamond hand" ? "#32cd32" : "red",
+      backgroundColor: voterData?.username ? "#aa9dcd" : "#e4908f",
       borderRadius: "8px", 
-      marginTop: "5px"
     }}>
-      Diamond Hand SBT: &nbsp; {diamondData?.diamondOrPaper} {diamondData?.diamondOrPaper === "diamond hand" ? "(Eligible)" : "(Not Eligible)"}
+      Voter SBT: &nbsp;{voterData?.username ? "Eligible" : "Not eligible"}
     </h3>
-    
+
+
     <h3 style={{
       color: "#ffffff", 
       fontSize: "35px", 
       fontWeight: "bold", 
       fontFamily: "Helvetica, Arial, sans-serif", 
-      padding: "10px 20px", 
+      padding: "10px 15px", 
       textAlign: "center", 
-      backgroundColor: voterData?.username ? "#32cd32" : "red",
+      backgroundColor: diamondData?.diamondOrPaper === "diamond hand" ? "#aa9dcd" : "#e4908f",
       borderRadius: "8px", 
+      marginTop: "5px"
     }}>
-      Voter SBT: &nbsp;{voterData?.username ? "Eligible" : "Not eligible"}
+      Diamond Hand SBT: &nbsp;  {diamondData?.diamondOrPaper === "diamond hand" ? "Eligible" : "Not Eligible"}
     </h3>
+    
 
    
     <h3 style={{
@@ -145,8 +147,9 @@ const handleRequest = frames(async (ctx) => {
       fontFamily: "Helvetica, Arial, sans-serif", 
       padding: "10px 20px", 
       textAlign: "center", 
-      backgroundColor: bonusData?.username  ? "#32cd32" : "red",
+      backgroundColor: bonusData?.username  ? "#aa9dcd" : "#e4908f",
       borderRadius: "8px",
+      marginTop: "5px"
     }}>
      First Week 15% Bonus:&nbsp;&nbsp;{bonusData?.username ? "Eligible" : "Not Eligible"}
     </h3>
